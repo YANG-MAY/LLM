@@ -1,0 +1,706 @@
+id,emotion_category_id,name,enabled
+cc0971b3-e423-4ca5-95bb-1bb6d1196a97,abdc8e31-96e9-40f9-8ca7-7a4687986074,Adoring,True
+e96425a8-9841-4433-8177-f4e15e44a823,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,🌚 NAUGHTY 🌚,False
+c36ce961-0dea-4929-93cf-f54214fef290,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🌈 Supportive 🌈,True
+15507c35-9a8a-469d-9ccb-a841be79fc1c,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,🌎 Powerful 🌏,True
+1acf46ff-49fc-4d92-9555-3608773ffefc,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Confused,True
+6d15b26b-6836-419c-89a6-70464c636ada,9030c2c3-f7fb-4dce-af4c-632620746fa8,👽 Alienated 👽,True
+b79f5937-74c6-426b-b791-dfb9f831a15a,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Amazed,True
+f5d4fa80-aa13-4cf0-b96c-8ec5b7910f69,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Astonished,True
+4b75b0f8-4e9a-4f9a-83ad-a66ac131cea3,abdc8e31-96e9-40f9-8ca7-7a4687986074,Infatuated,True
+416f8ee0-21df-4475-8780-9d0aa1c6c82f,abdc8e31-96e9-40f9-8ca7-7a4687986074,Caring,True
+e980b0f5-cf31-4f4d-a4d9-6b7dac19f8a3,2a1e8661-ff21-4dae-971e-587438ba35ea,Disappointed,True
+96e51569-d096-4fbf-8ea0-c23b2864c4ae,61e1b87e-8e99-4a48-a344-5029360e0f54,😱 FRIGHTENED 😱,False
+ca51c35c-d73f-434a-a8d5-59394c51cd21,2a1e8661-ff21-4dae-971e-587438ba35ea,Exhausted,True
+b1a2df8b-b4b9-495b-8439-18f073d53620,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,🌿 Green 🌿,True
+a656c499-7f4b-4583-92a3-f20387c06d14,36cbb964-d135-406d-ad17-bb0705aadbd4,🐑 Snuggly 🐑,True
+64e0607e-99d7-4e9e-a9cb-40dfd9241a89,36cbb964-d135-406d-ad17-bb0705aadbd4,🐺 Frostbitten 🐺,True
+4740e42f-4251-4afa-9717-e534ed683498,395a176f-f529-4ddb-9bd5-80bd510ccef2,Spacey,True
+8839a9fc-cd97-41d6-8144-92963c3120af,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Embarrassed,True
+0ddaa041-d3c3-4c2e-8a52-89d5d985e6a7,2a1e8661-ff21-4dae-971e-587438ba35ea,Lonely,True
+a20bd879-6f40-4b3c-809e-4c3f4965938e,395a176f-f529-4ddb-9bd5-80bd510ccef2,🎷 Experimental 🎷,False
+4fc9db7d-dc94-475c-8314-148d3c0fe68a,62bb6d69-ae01-415f-bc3b-898b10950472,🕊️ Blessed 🕊️,True
+1acf814a-c553-4c31-879a-f43248ba70b0,2a1e8661-ff21-4dae-971e-587438ba35ea,Ashamed,True
+cc6b6ea7-7b2c-4f04-85cb-5c0b4a8cd351,2a1e8661-ff21-4dae-971e-587438ba35ea,Depressed,False
+06da1027-3999-48e4-87e4-36e7a73ac8f7,62bb6d69-ae01-415f-bc3b-898b10950472,☁️ Tender ☁️,True
+332fb6d1-507a-43b2-9b99-329003d01cf5,61e1b87e-8e99-4a48-a344-5029360e0f54,👀 EERIE 👀,False
+f073c97e-a05b-48e8-ad40-110115dd39f0,2f7d9ab1-c412-4734-9545-84b3cad01e59,Afraid,True
+f6b390e3-a891-40a3-9d5b-c7ca2c5b39d6,79af7aa9-660e-49fc-9576-323b6a503179,Excited,True
+f8db5707-5579-4287-a7d6-2184d89087e3,a16fef0e-7af8-486d-999c-9b59632d9c5f,🐻 Tender 🐻,True
+345da627-59cd-4293-bece-bf6b7fd1b416,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🏭 Destructive 🏭,True
+4a5786ee-dfe4-4689-be71-ea1926e508b8,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Shocked,True
+dca3ef99-84a4-4ff0-a063-0e2e03530f2c,f0328ae4-1093-4b84-8a98-8a0826f832e3,👑 Great 👑,True
+349e7e19-d684-4987-acb1-35898f6ef434,79af7aa9-660e-49fc-9576-323b6a503179,Calm,True
+bcc25d7e-8f88-461c-a6a8-41565cb0f2be,79af7aa9-660e-49fc-9576-323b6a503179,Amused,True
+302a737d-46fb-43ea-9079-c4c69040bf26,0af046e4-bf8d-4776-8d05-2e5128568330,Angry,True
+c0dd0bcf-81c3-48d8-b75b-e150c24162bc,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Hungry,True
+2ca41655-7436-4a50-81b4-8d209c5df984,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Confident,False
+035dcb03-106f-46e8-ab84-fe3cc94c149f,0af046e4-bf8d-4776-8d05-2e5128568330,Annoyed,True
+76b0c370-788e-48df-a685-023ce7e23af1,d266ce2c-8369-4f29-bdbe-ea229f3e625f,🚀 Astronomical 🚀,True
+673452d0-5df5-4082-93c1-58b340345500,3f36988a-9a5a-4b64-b18c-47216c66e862,🎀 Inseparable 🎀,True
+cd550251-ecfd-483e-84d3-65f0eccd6a98,3f36988a-9a5a-4b64-b18c-47216c66e862,🍴 Feasting 🍴,True
+63fa2333-7a25-49cb-8d42-a01afa33b236,a8522bbf-252d-4186-bf03-20720f1c492d,💩 Crappy 💩,True
+ae68e662-fc29-4006-8e92-1673b24130d5,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,✨ WISHFUL ✨,False
+bea3573f-8ae3-42ae-b7bc-475034dbd7c6,fe0e3bd1-c324-4865-936f-09c7e489cc10,NEUTRAL,False
+7ab5aaa3-759b-41cb-a394-13310d078bca,fe8bd12b-b918-486a-ad38-21f769181f06,👋 Sensitive 👋,True
+a6964ee7-be85-4e75-ab51-7882da7f9a78,abdc8e31-96e9-40f9-8ca7-7a4687986074,Affectionate,True
+4bbf98ff-f360-40d8-8ab5-42409b291286,17e5dc81-f1a6-4840-b303-8aa769c0c8a6,🍰 Piece-ful 🍰,True
+858d2a6c-72f6-4162-9d3a-f11b306f8d91,2a1e8661-ff21-4dae-971e-587438ba35ea,Empty,True
+b9e67503-b905-461f-87f0-aea1c314a751,a145a804-b4bb-44cf-b569-2732b8670507,🍀 Lucky 🍀,True
+9490330d-5688-4796-997e-681578d8c2f4,395a176f-f529-4ddb-9bd5-80bd510ccef2,Adventurous,True
+7c7fb076-decd-4c76-adb7-59728568a5af,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,Generous,False
+2e019f30-8dfa-4bbc-a60a-9f53b66df651,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,Cozy,False
+48dad0b0-c68b-44fb-beea-a002a1e09e40,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,Thankful,False
+7d08ba66-3614-40eb-a5fa-0dad9b59de96,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,Merry,False
+4abe8de5-4974-4403-b9c3-57de1bf280f0,c105593f-9e96-47e6-9246-d7458f9a6a4b,🐾 Thumped 🐾,True
+4f4998e2-5eb0-420a-9621-ac1f2de5bcc0,62bb6d69-ae01-415f-bc3b-898b10950472,🌼 Sincere 🌼,True
+222bc5a3-89d3-4b29-b29d-50124a5469b5,61e1b87e-8e99-4a48-a344-5029360e0f54,🎃 HAUNTED 🎃,False
+acca2747-0d14-462c-aa2f-3da68b1f37b5,395a176f-f529-4ddb-9bd5-80bd510ccef2,Lyrical,False
+a5a149b1-9a1f-4ce2-ba9c-ee791659907c,abdc8e31-96e9-40f9-8ca7-7a4687986074,Needy,True
+eccf97d3-189b-4ca4-8f0a-3d0a23ca8482,a145a804-b4bb-44cf-b569-2732b8670507,❎ Unlucky ❎,True
+abc354fa-7778-490b-81e9-01c6e7f776a0,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🐧 Melting 🐧,True
+04887e03-08d0-4e00-8863-0245a26d267e,2f7d9ab1-c412-4734-9545-84b3cad01e59,Nervous,True
+4d806246-3dca-49d6-b7ea-f9d7b2242352,3c7bf64f-56fb-4d5f-95e3-c1764959805d,✨ Magical ✨,True
+c3a4c034-4ff3-4fc9-bf0d-4b44a4ff7aaa,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,✨ Reflective ✨,False
+3e275317-fc9e-4509-a215-78f6419137d0,79bcdf8a-14fa-4b54-a21c-022f69395c37,🐰 Hoppy 🐰,True
+a4dfef40-f02f-4ddc-9dfa-e156e4375346,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Hurt,True
+e1b0fb3b-db89-44c3-8fa2-7ee0f30b5888,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,✡ FESTIVE ✡,False
+807bef5e-6c3e-4ab5-9e49-021fe798d096,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,☠ GRINCHY ☠,False
+fed7902f-c2d4-40bf-ae42-21357ed49d05,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,🎅 JOLLY 🎅,False
+dc384d6c-da65-4729-a489-4aef68a29212,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,🎁 KIND 🎁,False
+65c41764-2767-40e3-bc19-08ff10c53bb7,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,🎄 MERRY 🎄,False
+2e30d025-daf9-4b14-86fd-5a2b3385bcdf,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,🌝 NICE 🌝,False
+a3f2c7aa-d18f-453b-927a-1d7181cef3ca,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,⛄️ TRANQUIL ⛄️,False
+ea7e1dc6-99bb-43d8-a227-af06f968f163,0af046e4-bf8d-4776-8d05-2e5128568330,Disgusted,True
+730d4894-def4-4b34-ae23-ea4fc91d8104,0af046e4-bf8d-4776-8d05-2e5128568330,Frustrated,True
+0971632e-3da0-4380-acbd-19cd05b024e0,0af046e4-bf8d-4776-8d05-2e5128568330,Done,True
+19039b1c-f53f-4c8f-a4e8-fc3f877d02d6,0af046e4-bf8d-4776-8d05-2e5128568330,Furious,True
+64889f4d-e92b-4176-adb1-8a44e4e15dcf,c105593f-9e96-47e6-9246-d7458f9a6a4b,🧣 Bun-dled up 🧣,True
+41d669f9-bf46-4f31-85f6-43c55a42338d,62bb6d69-ae01-415f-bc3b-898b10950472,🌟 Luminescent 🌟,True
+45005945-dcfc-4d79-a4fc-32f987f0d981,62bb6d69-ae01-415f-bc3b-898b10950472,🌳 Giving 🌳,True
+e5aac55f-c379-455b-8a5e-0c21b2de7216,1c81e39f-e983-4124-b9e9-07f19125987d,👅 Salty 👅,True
+63b78cd3-f9cd-47d8-8487-549514c6b325,d266ce2c-8369-4f29-bdbe-ea229f3e625f,💫 Star-Struck 💫,True
+b29bb733-bc85-4b72-99bd-9c88a414aee6,3c7bf64f-56fb-4d5f-95e3-c1764959805d,👊 Proud 👊,True
+8a504d10-c9be-4af3-94bb-2af7c7059670,2a1e8661-ff21-4dae-971e-587438ba35ea,Heartbroken,True
+370a6db2-7b89-47d1-bd1f-f355f61382aa,fe8bd12b-b918-486a-ad38-21f769181f06,👑 Honoring 👑,True
+9d39c4d3-a723-4cf0-b482-2c940b4eb491,abdc8e31-96e9-40f9-8ca7-7a4687986074,SUPPORTIVE,False
+6ee52ab4-dd9a-41f0-bf8a-07f53faa7b36,395a176f-f529-4ddb-9bd5-80bd510ccef2,Artistic,True
+341c381e-6c79-4130-aaa1-ba7a1556c5a3,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🌈 RESILIENT 🌈,False
+83aad9e4-a254-4cd7-a68d-888bb2db442c,fe8bd12b-b918-486a-ad38-21f769181f06,🔴 Sithy 🔴,True
+548b56dd-aa13-49e5-9c8d-13e9e7e942bd,0af046e4-bf8d-4776-8d05-2e5128568330,Petty,True
+c99d101d-28b4-4fe7-8cae-a1384a92937f,2a1e8661-ff21-4dae-971e-587438ba35ea,Miserable,True
+e6ce379e-ced1-4af0-a098-f94b4b3be70a,0af046e4-bf8d-4776-8d05-2e5128568330,Irritated,True
+36b322c5-f0ed-42cb-890c-fedce1fa9586,79af7aa9-660e-49fc-9576-323b6a503179,Relieved,True
+7bdc7c69-4263-434f-9322-507bcafba2da,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,☘FESTIVE ☘,False
+639f5f98-02a0-47cc-9725-68a2c9fab8fe,abdc8e31-96e9-40f9-8ca7-7a4687986074,🇫🇷 SUPPORTIVE 🇫🇷,False
+7336d1c8-b35a-4736-87f3-b27aed47032c,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,💌 Loving 💌,True
+bf6da4d4-7093-4f8e-b955-c2a17bea780a,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Conflicted,True
+c7f13748-9f40-4929-84fe-9cdecb181514,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,🌺 Important 🌺,True
+492f024b-aec8-41d7-be9e-73d2ebd55ed9,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,🍄 Mushy 🍄,True
+d9cf5a6c-1a32-4615-b264-08ad77292c61,61e1b87e-8e99-4a48-a344-5029360e0f54,😈 SCARED 😈,False
+580b4b0d-b0c5-46c8-a7b3-0c5749fc579e,917a419a-1562-40c7-b8e4-dfe51d7090ba,💅 Independent 💅,True
+f4acb53d-bf47-4d2c-8283-fde56bbf045e,2f7d9ab1-c412-4734-9545-84b3cad01e59,Scared,False
+17194da2-42f4-439f-b580-113e02ac7718,917a419a-1562-40c7-b8e4-dfe51d7090ba,🌸 Crushing 🌸,True
+2bfc6009-eb90-4258-a6ef-7edb52a01832,0af046e4-bf8d-4776-8d05-2e5128568330,🇨🇦 PROUD 🇨🇦,False
+3fe2e740-05e8-4ab7-911e-e8579b4fc002,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Optimistic,True
+85e88f18-0052-41ea-8a0b-297e6d43860b,61e1b87e-8e99-4a48-a344-5029360e0f54,💀 Creepy 💀,True
+7e098f0c-fc75-4385-89db-e9544882d2ba,917a419a-1562-40c7-b8e4-dfe51d7090ba,💝 Loved 💝,True
+561926ab-ef1d-4eb8-98d8-5eeba974df2c,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,✨ DETERMINED ✨,False
+61c3d92e-802f-4725-a532-4459cf7c6d11,2ad5268f-0b7b-4c02-9323-870cce9c5e63,🎃 Spicy 🎃,True
+c319c2ef-2066-4836-996f-d5624e940d8a,a80f91d1-8509-4083-88fb-f45e16989ad3,🍀 Lucky 🍀,True
+d8b2b829-fe77-4b8c-b37c-cca1d10fc8d8,9d5657eb-7719-42af-9055-c845fa35ba02,🌙 Nocturnal 🌙,True
+63e5f9ef-8f0a-4fc1-bca3-0904ef62327d,2ad5268f-0b7b-4c02-9323-870cce9c5e63,🍁 Autumnal 🍁,True
+e32aa56e-54a8-4a24-8808-3d8906f6c139,abdc8e31-96e9-40f9-8ca7-7a4687986074,🇹🇷 Supportive 🇹🇷,False
+de12e8dc-e8b4-4a9c-98a3-d0fee095fcff,fe8bd12b-b918-486a-ad38-21f769181f06,🌗 Grey 🌗,True
+15027b54-e33c-49af-8ea7-bd17e79a0585,3c7bf64f-56fb-4d5f-95e3-c1764959805d,✊ United ✊,True
+3e923110-0157-422b-a5b3-5df626adbf91,abdc8e31-96e9-40f9-8ca7-7a4687986074,❣ APPRECIATIVE ❣,False
+e260dba2-8f4e-475c-839c-f4b643abf864,395a176f-f529-4ddb-9bd5-80bd510ccef2,Creative,True
+c54bda79-68ab-4df0-9ac6-127fd860d72c,1c81e39f-e983-4124-b9e9-07f19125987d,🎆 Booming 🎆,True
+e54b2afc-d048-4c26-b707-3d9cbcd0c970,abdc8e31-96e9-40f9-8ca7-7a4687986074,💙💜 PRIDEFUL 💜💙,False
+3d53c512-962b-46b5-a01a-0b197c605d92,1c81e39f-e983-4124-b9e9-07f19125987d,💋 Kissed 💋,True
+c0e743e0-3123-478e-a712-7b8084597bed,2f7d9ab1-c412-4734-9545-84b3cad01e59,Anxious,True
+ef1addc5-9cc5-4f4c-b93a-ea9f3b8d7808,00c4da33-145f-4a63-b414-72725cb71e5a,👑 Charmed 👑,True
+347bc40c-7e7d-4a61-9bdd-782ca5aa17a8,abdc8e31-96e9-40f9-8ca7-7a4687986074,🌇 BLESSED ☪,False
+bf68a73b-1ebe-4cf6-896e-11caf73895da,61e1b87e-8e99-4a48-a344-5029360e0f54,💀👻 SPOOPY 👻💀,False
+c180fd48-d678-4218-be92-def63723f44c,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Interested,True
+75df51c5-8105-493a-9d7a-a77054994755,abdc8e31-96e9-40f9-8ca7-7a4687986074,Loving,True
+733f1988-b888-4e3e-974a-1831b29632c7,2a1e8661-ff21-4dae-971e-587438ba35ea,Numb,True
+d3a9d2b9-92b6-4a50-a2ff-a5c64b28ab1e,f40868cf-4839-46cc-9101-81914658375f,🌟 Here 🌟,True
+7a4342ce-b304-429d-96bc-eecf62786ed2,bbb7cce5-45eb-423c-bb85-e82b4a11fa3c,💔 Devastated 💔,True
+5100d920-1b97-45ba-b021-bcbdbb481746,abdc8e31-96e9-40f9-8ca7-7a4687986074,Passionate,True
+da6c8d2b-8cc3-4d0e-81db-191b5b50dc4a,abdc8e31-96e9-40f9-8ca7-7a4687986074,👼 ANGELIC 👼,False
+cc9dc671-8fb4-49f2-8fe3-ef1afb64b2e5,2f7d9ab1-c412-4734-9545-84b3cad01e59,Awkward,True
+851d16c7-f07e-4623-ba2e-c0aef4d8fd48,abdc8e31-96e9-40f9-8ca7-7a4687986074,Supportive,True
+b78fd06f-0129-481e-ac16-35ecc7e4f9a2,917a419a-1562-40c7-b8e4-dfe51d7090ba,🐻 Cuddly 🐻,True
+3180a95c-c03d-4a36-b78c-26d54d928049,2a1e8661-ff21-4dae-971e-587438ba35ea,Sad,True
+fe1ac197-3294-493f-ba9d-04c6bfbea10c,2f7d9ab1-c412-4734-9545-84b3cad01e59,Stressed,True
+81f4df24-3acd-4c12-912e-5836ab6e1b21,c105593f-9e96-47e6-9246-d7458f9a6a4b,💕 Snuggling 💕,True
+d46b2a98-b664-457a-9599-d0f04a4f60c1,bbb7cce5-45eb-423c-bb85-e82b4a11fa3c,🔒 Safe 🔒,True
+cb078ffe-52f0-42b2-bcd6-0945f82b2a9b,f673232f-9f8e-4908-910b-daad4e70cb03,💥 Catastrophic 💥,True
+13934a8b-d157-437b-b2ca-525c1e77bb4f,8864978d-121a-4ec1-9af4-0c8f5fb3583b,🌅 Living 🌅,True
+01b5371b-10c8-4a24-a3d2-000ea981d529,2ad5268f-0b7b-4c02-9323-870cce9c5e63,☁️ Cloudy ☁️,True
+c9c4880b-a104-44b4-b2bf-ae831b52a5bb,62bb6d69-ae01-415f-bc3b-898b10950472,💌 Generous 💌,True
+2a9f05fa-191c-4e2a-a0b6-f0f26abdf392,3f36988a-9a5a-4b64-b18c-47216c66e862,❇️ Decorated ❇️,True
+4950a090-8efb-4147-b16d-d76362982abb,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Hyped,True
+caa3ca9a-ce97-4bec-a1d9-444867181434,bab8ae81-40be-48d0-aa8b-be96063b6561,✨ Unified ✨,True
+80d8c78b-4ee8-4fdb-9d5f-89a3a5521410,2a1e8661-ff21-4dae-971e-587438ba35ea,Sorry,True
+9356fb3f-379c-4b1b-8244-e21258dccd64,2a1e8661-ff21-4dae-971e-587438ba35ea,Lost,True
+cc50f6bd-a126-4331-bccf-f3446c8f4923,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Curious,True
+28f6d4f0-4565-465c-a213-5b3376900670,61e1b87e-8e99-4a48-a344-5029360e0f54,👽 WICKED 👽,False
+3464cd43-634b-4efb-8a0d-97e664ca67ce,2f7d9ab1-c412-4734-9545-84b3cad01e59,Worried,True
+26bea68e-5782-4807-9649-6fe65f84fcbd,abdc8e31-96e9-40f9-8ca7-7a4687986074,🌸 LOVING 🌸,False
+5c22c4eb-166f-4221-a345-abf9d9b9277f,abdc8e31-96e9-40f9-8ca7-7a4687986074,Sympathetic,False
+6d024b0a-e34c-46f2-8468-3c1992bf02c5,abdc8e31-96e9-40f9-8ca7-7a4687986074,🇯🇵 Supportive 🇪🇨,False
+17bd599c-bfa5-41e9-90f5-d3025ebd6989,61e1b87e-8e99-4a48-a344-5029360e0f54,👻 SPOOKY 👻,False
+505796a9-086f-453b-9c47-48e867be0e53,395a176f-f529-4ddb-9bd5-80bd510ccef2,Imaginative,True
+8b02d4f2-52d6-4f47-bc85-64d48f982f99,c105593f-9e96-47e6-9246-d7458f9a6a4b,🌻 Lively 🌻,True
+94004b6c-894d-4faf-bb7a-fb213e70833f,62bb6d69-ae01-415f-bc3b-898b10950472,🌻 Pure 🌻,True
+8273d213-69ba-4b8f-8336-2978e3789295,bbb7cce5-45eb-423c-bb85-e82b4a11fa3c,💪 Persevering 💪,True
+06987c6c-9b4c-42cb-9367-2a790827ade8,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,🍦 COOL 🍦,False
+70e68238-0bf7-4840-b6c7-f79aff544be3,1c81e39f-e983-4124-b9e9-07f19125987d,💫 Blessed 💫,True
+47c97712-d134-44a3-b9d2-843693cadd0a,f673232f-9f8e-4908-910b-daad4e70cb03,😻 Purrty 😻,True
+dcb39a92-1bf5-4ff1-b00d-545b11a010c0,1c81e39f-e983-4124-b9e9-07f19125987d,🍾 Bubbly 🍾,True
+a89bfe55-3d5e-4224-97dd-009d3b887b1b,0af046e4-bf8d-4776-8d05-2e5128568330,Bitter,True
+771957a2-636b-4f37-a09e-dde42cf1809e,1c81e39f-e983-4124-b9e9-07f19125987d,🍈 Mellow 🍈,True
+b1ce7817-4e73-413d-98f8-9f38be0e2970,79af7aa9-660e-49fc-9576-323b6a503179,Relaxed,True
+624d3488-b270-4440-af68-6443441563c6,d266ce2c-8369-4f29-bdbe-ea229f3e625f,🌘 Hidden 🌘,True
+8524965c-591c-41ce-b46c-b4957a40a514,79af7aa9-660e-49fc-9576-323b6a503179,😂 HILARIOUS 😂,False
+6667414d-2c4d-4c0e-a9ab-2e4973bc8387,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🦁 Brave 🦁,True
+cc96878b-7262-45e1-b989-32e12c148d8c,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,♨️ Steaming ♨️,True
+6c2476ac-d5c5-4ba4-9e63-af8855af79e2,fe8bd12b-b918-486a-ad38-21f769181f06,🌑 Dark 🌑,True
+f14bc63d-bb85-44aa-8228-aae69eb0e14c,fe8bd12b-b918-486a-ad38-21f769181f06,🌌 Far far away 🌌,True
+c93e42f3-b9a9-40a4-8a35-5004b2b64db5,f673232f-9f8e-4908-910b-daad4e70cb03,🐾 Pawsome 🐾,True
+c28150bd-7e51-45e3-b8da-cf53afd266cf,36cbb964-d135-406d-ad17-bb0705aadbd4,☃️ Chill ☃️,True
+507a0868-1b9e-4453-9882-e3b62e539e90,62bb6d69-ae01-415f-bc3b-898b10950472,🖤 Fallen 🖤,True
+cb5c6072-a0d8-4e69-a161-15f1132c1201,917a419a-1562-40c7-b8e4-dfe51d7090ba,💕 Smitten 💕,True
+f4d1db5d-352d-4f7f-b83c-02f8d31a95d0,a145a804-b4bb-44cf-b569-2732b8670507,✨ Charming ✨,True
+c275b5a2-b706-4845-b80f-0d6776cc1dfd,0af046e4-bf8d-4776-8d05-2e5128568330,Jealous,True
+cd2bea1e-9aa0-4154-a8f5-bcefcdb7b5d0,a80f91d1-8509-4083-88fb-f45e16989ad3,🎇 Festive 🎇,True
+6825015b-7cc7-43d9-be03-06553df321c1,2f7d9ab1-c412-4734-9545-84b3cad01e59,Insecure,True
+aca5933a-d24e-4648-9392-442583d54eac,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,🚀 EXPLORATIVE 🚀,False
+6bedaaac-d4f3-454c-9742-44612b2417de,395a176f-f529-4ddb-9bd5-80bd510ccef2,Inspired,True
+698fe649-5549-46d9-9f6e-1b71c8927bc4,395a176f-f529-4ddb-9bd5-80bd510ccef2,Poetic,True
+c72ecab0-6e2d-4406-85af-d3be41b6166a,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🌅 Breathtaking 🌅,True
+4e0d37cc-69d3-42af-bb41-f0f44863a879,395a176f-f529-4ddb-9bd5-80bd510ccef2,Musical,True
+9057498d-f0d5-4fc5-9bdf-dcba11812d61,395a176f-f529-4ddb-9bd5-80bd510ccef2,🇸🇪🎤 MUSICAL 🎤🇸🇪,False
+81ca17c1-b481-40c2-b938-dcb92c6e5139,abdc8e31-96e9-40f9-8ca7-7a4687986074,Cuddly,True
+b6b14695-4670-4fe7-8f1e-83c7be4745f0,abdc8e31-96e9-40f9-8ca7-7a4687986074,💖 Kind 💖,False
+cef963fd-4e02-4289-ab7a-713d28080f9b,395a176f-f529-4ddb-9bd5-80bd510ccef2,Thoughtful,True
+175ab550-9c5c-4f4e-acfb-6989ee9560bf,395a176f-f529-4ddb-9bd5-80bd510ccef2,Dreamy,True
+719fa2be-0afc-4382-bb0d-75cab909932d,395a176f-f529-4ddb-9bd5-80bd510ccef2,📚 BOOKISH 📚,False
+b382aa06-15c7-400e-aa54-fd1b5c9ce613,e68681dd-9649-4796-959d-b2094ab66268,🌈 Cheerful 🌈,True
+539fb28e-1ee5-4e18-a21c-1a498e93162c,9030c2c3-f7fb-4dce-af4c-632620746fa8,🕸 Creepy 🕸,True
+797692f0-83ed-4c46-9563-61dfadd55181,a145a804-b4bb-44cf-b569-2732b8670507,💰 Fortunate 💰,True
+d32c4619-9cec-42c0-9480-5b168ead4bbc,bbb7cce5-45eb-423c-bb85-e82b4a11fa3c,💅 Fearless 💅,True
+a1398ef0-05e0-4ea3-a87d-16c5b3bc7e38,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🌈 CLOSETED 🌈,False
+dc9b976a-acba-4231-97db-9c460eb8e647,e68681dd-9649-4796-959d-b2094ab66268,💩 Losing 💩,True
+42851ff4-e397-4b93-9865-90754e9349a3,e68681dd-9649-4796-959d-b2094ab66268,🙌 Pumped 🙌,True
+00475881-fc63-4ed4-a048-a0513955ea64,f673232f-9f8e-4908-910b-daad4e70cb03,🔪 Clawful 🔪,True
+ed78369c-638f-4ff8-9de1-37e77e5aec65,e68681dd-9649-4796-959d-b2094ab66268,🏆 Winning 🏆,True
+d2877241-fe61-4ecf-b6bd-a9b3720b1e5e,a145a804-b4bb-44cf-b569-2732b8670507,👌 Pinched 👌,True
+0dd27c63-91a7-41b4-a52d-6274e7551a17,f673232f-9f8e-4908-910b-daad4e70cb03,💨 Meowtta here 💨,True
+8e4ea88b-b78f-44df-929a-94adc92d79b1,c105593f-9e96-47e6-9246-d7458f9a6a4b,💨 Swift 💨,True
+cd157c73-efbe-491a-a41e-7dff6dc4c99b,2ad5268f-0b7b-4c02-9323-870cce9c5e63,☕ Cozy ☕,True
+19a23af6-6a85-461f-b9cb-17a79ae3ebcc,2ad5268f-0b7b-4c02-9323-870cce9c5e63,🥀 Wilting 🥀,True
+adb6ea46-34c7-4888-8024-0a6b0ac889ca,c66c1a78-2007-43ce-8b8e-792aabb7b490,🍇 Grapeful 🍇,True
+a08ce627-a526-4eb5-adeb-645324b6f74a,e68681dd-9649-4796-959d-b2094ab66268,🇧🇷 Euphoric 🇧🇷,False
+4f141a63-b4c8-4e17-94c7-2def39a72a92,00c4da33-145f-4a63-b414-72725cb71e5a,💖 Flattered 💖,True
+81354d2f-abad-4ffa-a2ef-ecc6b0d2624e,d266ce2c-8369-4f29-bdbe-ea229f3e625f,👽 Far out 👽,True
+efcc4551-fcfd-4257-85f1-50bdde3a7d80,d266ce2c-8369-4f29-bdbe-ea229f3e625f,🛸 Believing 🛸,True
+847a0339-52c3-45ce-8245-cd87da54cd5b,61e1b87e-8e99-4a48-a344-5029360e0f54,😵 CREEPY 😵,False
+9c0428d1-d1ba-4a64-8754-96788f60a390,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,🐾 Wild 🐾,True
+f5f9b4b8-5777-47f2-b678-68e82221eccd,61e1b87e-8e99-4a48-a344-5029360e0f54,👻 Spooky 👻,True
+10d81b3e-a0b5-4b1f-a885-52cf61506b48,61e1b87e-8e99-4a48-a344-5029360e0f54,🍷 Fangtastic 🍷,True
+8bbd6aba-84a8-4db4-826e-a88857aed14f,1c81e39f-e983-4124-b9e9-07f19125987d,✨ Reflective ✨,True
+f8ba3b03-a7b0-4d29-9873-0684ba265acf,00c4da33-145f-4a63-b414-72725cb71e5a,⚔️ Protective ⚔️,True
+ea93f016-ef56-4fa1-b28d-6060ae7b52c8,a80f91d1-8509-4083-88fb-f45e16989ad3,🍜 Reunited 🍜,True
+58dcb2ff-f779-421c-87ab-dad11c015490,a80f91d1-8509-4083-88fb-f45e16989ad3,🍊 Fortunate 🍊,True
+b1c184a4-fc2c-4a11-baff-72aa1db3a55f,3c7bf64f-56fb-4d5f-95e3-c1764959805d,📖 Truthful 📖,True
+206a176b-6298-4f58-81ad-2898fbaa8a5c,61e1b87e-8e99-4a48-a344-5029360e0f54,🍭 Sweet 🍭,True
+d2617386-eebf-47f5-bc49-aaa2603e50b3,c66c1a78-2007-43ce-8b8e-792aabb7b490,🍒 Cheery 🍒,True
+1f0b9072-1bc9-47ef-8f36-949499e25829,61e1b87e-8e99-4a48-a344-5029360e0f54,⚰ Eerie ⚰,True
+86f7149f-dde5-4fed-8c16-05c12262b151,a80f91d1-8509-4083-88fb-f45e16989ad3,㊗ Wishful ㊗,True
+4baba763-c61a-40be-81a0-50fee126f54a,1c81e39f-e983-4124-b9e9-07f19125987d,🍃 Refreshed 🍃,True
+6858d7a8-b615-439b-9521-23f2cff63313,ab8f9f39-92fb-4133-acee-0221df84a7d0,🎸 Electric 🎸,True
+827e6d18-e34d-4727-913f-cb61da635d55,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,📚 A-torah-ble 📚,True
+835586bc-902a-4439-aa10-4843342a8451,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,🥛 Weak 🥛,True
+e792c476-2c77-4ce5-a929-0406b6d8dc27,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,🔮 Entranced 🔮,True
+49ea9d02-9dc5-4636-800e-28d065e33c14,bab8ae81-40be-48d0-aa8b-be96063b6561,🕎 Bright 🕎,True
+ac5bb188-13f7-4323-bba9-368d727a2bd3,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🗑️ Trashy 🗑️,True
+a11c069a-7d0c-49f2-b0c6-15b048099db0,9030c2c3-f7fb-4dce-af4c-632620746fa8,💀 Bone-To-Party 💀,True
+ec8b18a9-4211-4c36-8397-66ef121e4649,9030c2c3-f7fb-4dce-af4c-632620746fa8,👻 Boo-tiful 👻,True
+def526d1-1806-46d7-b1ff-afde90f35616,9030c2c3-f7fb-4dce-af4c-632620746fa8,🌙 Moonstruck 🌙,True
+04ebbf18-5117-4980-8e9a-41d40746f0e3,f0328ae4-1093-4b84-8a98-8a0826f832e3,☀️ Basking ☀️,True
+24a96f56-34c7-4aab-abb1-cc80f705b784,d3bc526b-b869-4e04-b959-d9a6783dc487,🕊️ Peaceful 🕊️,True
+43ccae13-6e53-441f-8660-c9842db6580d,f40868cf-4839-46cc-9101-81914658375f,💐 Reverent 💐,True
+928438b9-5ef2-432b-98f1-19b383aed3fb,a145a804-b4bb-44cf-b569-2732b8670507,🌈 Golden 🌈,True
+8ac33317-7d7d-49be-9d59-03091ef79df2,1c81e39f-e983-4124-b9e9-07f19125987d,🍞 Bready 🍞,True
+8fb558b6-c385-4036-bae5-d79db96b9727,bab8ae81-40be-48d0-aa8b-be96063b6561,🌙 Be-yule-tiful 🌙,True
+8a27a662-9a51-48a6-8ee4-7e848658a987,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,🍄 Magical 🍄,True
+8c5cc6c1-46fd-4a73-8899-9cda247755cb,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,😇 HONEST 😇,False
+d9984297-f491-437a-9c3a-3b07f730b839,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,💎 Treasured 💎,True
+6613ea88-ac69-4914-ad26-bb5d7b62e7dd,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,🎭 Jinxed 🎭,True
+15d21c73-a49a-44c8-b5f0-a05adb8a2bfb,3f36988a-9a5a-4b64-b18c-47216c66e862,🥂 Sparkling 🥂,True
+ccaf86ba-dd54-449e-a030-5c9a8bf18a1d,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,⏳ Eternal ⏳,True
+5e311b45-99ae-45f8-8f90-5eeee01cad41,00c4da33-145f-4a63-b414-72725cb71e5a,💌 Shy 💌,True
+f14a040b-0f08-41cc-ade6-3cfb5cc58c3b,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,✊ United ✊,True
+55d8a7d7-5a0c-4418-b8b1-22a8b138e607,bd10ee92-a4b8-41f4-b0e6-755b144806ad,👼 Ethereal 👼,True
+f6f8a960-43e2-4a6e-ad5e-7889dc492369,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🌈 PROGRESSIVE 🌈,False
+2fc407ef-82c1-425c-80a7-2aa497610f2e,2f7d9ab1-c412-4734-9545-84b3cad01e59,Overwhelmed,True
+2b943faa-a793-417d-b8f5-0a0fb4f62b19,a145a804-b4bb-44cf-b569-2732b8670507,💚 Green 💚,True
+8ab507be-151f-4817-9405-b3d5c60f491e,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,💚 Considerate 💚,True
+1af9d044-0e1f-4681-9adc-ce8941c981e6,fe8bd12b-b918-486a-ad38-21f769181f06,🌕 Light 🌕,True
+524b08a9-2c6d-4586-9d20-65cd2696bddc,f673232f-9f8e-4908-910b-daad4e70cb03,😹 Hissterical 😹,True
+e290c5a8-ec4c-4a8a-9b38-b3bb9fa0e150,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,🌊 Clean 🌊,True
+1c07a682-fb2e-48df-b03c-f25667b207a3,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,🌸 Sustainable 🌸,True
+96e3ba9b-15c8-4420-b0aa-303eada690c7,36cbb964-d135-406d-ad17-bb0705aadbd4,🍵 Frost-tea 🍵,True
+2959d5bd-c8f1-4f27-9889-75c2280f9059,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,♻️ Eco-Friendly ♻️,True
+0897e474-1bff-4c3b-b583-ecd00f76daed,79bcdf8a-14fa-4b54-a21c-022f69395c37,🌹 Blooming 🌹,True
+655378c9-42f7-4d23-aff6-ae9b6d6eb7ad,79bcdf8a-14fa-4b54-a21c-022f69395c37,🍃 Breezy 🍃,True
+c61dc38c-0831-4c4e-9568-8c7dd8fcb97b,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,😖 MESSY 😖,False
+76159c0e-cd38-4ddb-b9a7-3c86c79ef1a1,79bcdf8a-14fa-4b54-a21c-022f69395c37,🍑 Peachy 🍑,True
+ef241d96-1e80-4bbe-ad85-772b558b82f2,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🐺 Dire 🐺,True
+4827c5ec-866d-4d75-88e2-58a61659dff0,ab8f9f39-92fb-4133-acee-0221df84a7d0,🔥 Passionate 🔥,True
+a992d9f0-1b4c-4a6c-9d73-4cd7deb287ef,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Surprised,True
+232f9a22-3661-41ec-af74-97acdeb4238a,79bcdf8a-14fa-4b54-a21c-022f69395c37,💌 Delivered 💌,False
+9fccabd4-1ebe-4875-b378-dc72662a51f3,79bcdf8a-14fa-4b54-a21c-022f69395c37,🐣 Eggcellent 🐣,True
+55dbdddd-d3f5-4e0c-8815-2bfa6d850f13,ab8f9f39-92fb-4133-acee-0221df84a7d0,🖤 Misunderstood 🖤,True
+d17dcf65-412c-4a76-8b68-cd87ef767261,79bcdf8a-14fa-4b54-a21c-022f69395c37,🐝 Busy 🐝,True
+2275892d-93a3-4db7-86ff-9867ef697d04,79bcdf8a-14fa-4b54-a21c-022f69395c37,☀️ Bright ☀️,True
+8fee81d6-654c-4cd3-9c12-002af3296a69,79bcdf8a-14fa-4b54-a21c-022f69395c37,🍫 Sweet 🍫,True
+7f60eb27-d095-4f75-aeef-1b1e518e2ab4,f40868cf-4839-46cc-9101-81914658375f,👥 Vigilant 👥,True
+8968e42b-46ca-43e8-bef1-c3daf9340b99,bbb7cce5-45eb-423c-bb85-e82b4a11fa3c,🤝 Cooperative 🤝,True
+dcb02040-9053-4937-8ff7-a88b6198f22d,917a419a-1562-40c7-b8e4-dfe51d7090ba,💐 Romantic 💐,True
+b3cebff4-c719-408d-9408-bfce726c1507,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,💰 Booty-ful 💰,True
+d9b2ae89-8379-4e38-a0bb-85ae9c49fcaf,fe8bd12b-b918-486a-ad38-21f769181f06,💫 Galactic 💫,True
+6149caf8-10b2-4821-8983-fb92ceeb2d36,1c81e39f-e983-4124-b9e9-07f19125987d,🎐 Wistful 🎐,True
+f915065a-b04d-4d0d-af88-1903245e08ca,8864978d-121a-4ec1-9af4-0c8f5fb3583b,🌻 Optimistic 🌻,True
+9c7d3cc8-b2d7-40c5-ab21-16197aa7ff1a,00c4da33-145f-4a63-b414-72725cb71e5a,🌹 Everlasting 🌹,True
+62d30415-898f-4a92-bac5-1999d4f17aa6,bab8ae81-40be-48d0-aa8b-be96063b6561,🎅 Jolly 🎅,True
+95792e4a-3948-4e4d-99af-1cbb39e67abc,fe8bd12b-b918-486a-ad38-21f769181f06,⚔ Conflicted ⚔,True
+74b3f8c1-e57a-4705-b7e3-8f1fe6ef8af9,2f7d9ab1-c412-4734-9545-84b3cad01e59,Shy,True
+29241240-3a6f-4588-a3eb-77912523c3d2,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🕊️ Free 🕊️,True
+fcd17f8b-5010-40d2-ab7a-31d699568b95,2f7d9ab1-c412-4734-9545-84b3cad01e59,Uncomfortable,True
+2c6aba89-cd97-4e31-aa30-a808133fea73,3c7bf64f-56fb-4d5f-95e3-c1764959805d,🎓 Educated 🎓,True
+2ae38ae0-1c8a-4f05-b76d-1230b155d075,3c7bf64f-56fb-4d5f-95e3-c1764959805d,⌛ Free ⌛,True
+a76614a3-f492-4255-9970-784bafc4ea8b,827183e0-8ac7-4343-b4a6-ff20b40f1c89,🌡 Burnt 🌡,True
+359e89c5-b7aa-45bc-a73a-e98f73da38bf,827183e0-8ac7-4343-b4a6-ff20b40f1c89,🍦 Chill 🍦,True
+c46bf85a-16e0-4633-a891-eb3c527bf9f6,bbb7cce5-45eb-423c-bb85-e82b4a11fa3c,✨ Hopeful ✨,True
+e9e5f4c0-3f55-4a1d-b6dd-093af43b1849,bab8ae81-40be-48d0-aa8b-be96063b6561,🕯 Peaceful 🕯,True
+5551181b-6022-46b5-b47e-ea642f160e3d,3c7bf64f-56fb-4d5f-95e3-c1764959805d,💥 Poppin' 💥,True
+6f8624a4-0b13-4037-8e02-0b26107635bb,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,💓 Alive 💓,True
+09807e6e-f6a2-42f9-9ae3-75711ce888e9,3c7bf64f-56fb-4d5f-95e3-c1764959805d,💪 Powerful 💪,True
+4cf06141-e889-4080-a1af-3702f53283a1,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🎨 Colorful 🎨,True
+c2c317b6-cdd1-4692-8f6f-7b02286cd4f0,8c94bc74-21c8-4ae9-b689-6b67e1c41194,💚 Lovable 💚,True
+25198839-7161-4a57-babe-acf26d747c85,9d5657eb-7719-42af-9055-c845fa35ba02,💋 Bitten 💋,True
+9a424112-5338-4b14-bfa9-df86fbb5aa2d,f673232f-9f8e-4908-910b-daad4e70cb03,🐈 Purrfect 🐈,True
+b376a198-0368-4e8b-9ceb-4dbe5a2eb6a9,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Strong,True
+8ec0f3e1-efe6-4181-ad5b-2176d5cd8388,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Productive,True
+661d0f3e-b08a-47ee-8a36-901ef6bfe80a,827183e0-8ac7-4343-b4a6-ff20b40f1c89,🏖 Beachy 🏖,True
+13a962b2-8fea-414b-9830-646095483395,fe8bd12b-b918-486a-ad38-21f769181f06,💀 Rebellious 💀,True
+eba381e6-293a-4922-86dd-32c05754e6d8,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,⚓ Anchored ⚓,True
+1bb8c06e-520e-4783-9252-6492f30cc49f,827183e0-8ac7-4343-b4a6-ff20b40f1c89,🔥 HOT 🔥,False
+9b404c95-5dfc-4a0a-976d-e6a2a2025784,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,💣 Wrecked 💣,True
+8b03c08d-85e0-4442-b38e-205a4e3e6ef5,a80f91d1-8509-4083-88fb-f45e16989ad3,🎋 Bamboozled 🎋,True
+592bc3f4-71eb-4c8b-b851-969fca02ef00,ab8f9f39-92fb-4133-acee-0221df84a7d0,🔪 Edgy 🔪,True
+c88860e4-9cf0-4518-b10c-bf13fd885aed,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🌈 STRONG 🌈,False
+372d0fbe-7ae4-4bfd-811c-3eabfa139d4d,827183e0-8ac7-4343-b4a6-ff20b40f1c89,❄️ Chilly ❄️,True
+85482839-650d-4961-8fcc-602309d378f8,f673232f-9f8e-4908-910b-daad4e70cb03,😿 Allergic 😿,True
+325bc112-f3f8-4cca-8ca7-dc4cb858c30e,f673232f-9f8e-4908-910b-daad4e70cb03,😾 Fur-ious 😾,True
+c39abe30-1e3a-48f5-bb53-91bd1757830d,bbb7cce5-45eb-423c-bb85-e82b4a11fa3c,💙 Concerned 💙,True
+17cf3631-355b-4daa-81a2-60a0712d5682,62bb6d69-ae01-415f-bc3b-898b10950472,💫 Heaven-sent 💫,True
+856aad06-e0ea-47d6-83eb-e4b4a1a98ffc,61e1b87e-8e99-4a48-a344-5029360e0f54,🔮 Magical 🔮,True
+7f5cc864-42a1-4d95-9900-a74b8267ea65,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,😌 TIDY 😌,False
+3b0d022e-e1ee-476e-9ac2-a9763462bbf1,61e1b87e-8e99-4a48-a344-5029360e0f54,💩 Spoopy 💩,True
+7d026c94-75cf-44e3-b66a-47ec0457a66b,c66c1a78-2007-43ce-8b8e-792aabb7b490,🍬 Sweet 🍬,True
+d3019846-a65c-4159-bef5-f1ce7257aabe,36cbb964-d135-406d-ad17-bb0705aadbd4,🐻 Hibernating 🐻,True
+a0d6ae56-7a1d-4595-8bb7-a8f5ae829cc3,c66c1a78-2007-43ce-8b8e-792aabb7b490,🐇 Fluffy 🐇,True
+8092204e-d042-4a8e-87f0-1369f5f528eb,827183e0-8ac7-4343-b4a6-ff20b40f1c89,🐦 Chirpy 🐦,True
+f8b5ae48-ce9a-46c2-ac01-7b7968815f57,827183e0-8ac7-4343-b4a6-ff20b40f1c89,🦈 Jawesome 🦈,True
+0c29146f-4018-4028-8070-75a6e22e3395,827183e0-8ac7-4343-b4a6-ff20b40f1c89,🍉 Relaxin' 🍉,True
+1cca3300-e887-4ecc-8a5e-401ca1008047,827183e0-8ac7-4343-b4a6-ff20b40f1c89,⛈ Stormy ⛈,True
+e19e7de6-fabd-4114-be68-541a62092abc,827183e0-8ac7-4343-b4a6-ff20b40f1c89,☀️ Sunny ☀️,True
+65934055-a332-4b4b-b870-0893475f36d3,827183e0-8ac7-4343-b4a6-ff20b40f1c89,🍹 Tropicool 🍹,True
+7b51333d-8f57-4646-9472-0015475d25e7,40a3f439-6198-4a5b-98bc-17c6398d71ce,🎗️ Aware 🎗️,True
+4366e07b-aeab-4607-851f-fbab2196cabd,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🌸 Blooming 🌸,True
+163e00fa-32aa-45e6-bbd1-f31bd06d774d,f673232f-9f8e-4908-910b-daad4e70cb03,🐭 Mousechievous 🐭,True
+e9cd01bb-9365-4e5f-add8-9d9f05201fd8,c66c1a78-2007-43ce-8b8e-792aabb7b490,🎩 Trick or Treat 🍬,True
+63cdd8a8-a460-420f-9792-46d31c1660a6,3c7bf64f-56fb-4d5f-95e3-c1764959805d,🙌 Enthusiastic 🙌,True
+c2fe9e18-6738-40c5-bad7-5c82f963fcf8,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,✨ Valid ✨,True
+2d4a8f10-bfc2-43e4-8309-3970ffb1334c,8c94bc74-21c8-4ae9-b689-6b67e1c41194,🔊 Vocal 🔊,True
+3c6f0c05-eac4-453e-95b4-b177a716b398,61e1b87e-8e99-4a48-a344-5029360e0f54,🐺 Werey 🐺,True
+e8b16453-9fb5-4e84-9d7e-8f084618f758,9030c2c3-f7fb-4dce-af4c-632620746fa8,🐺 Howling 🐺,True
+b69ae973-5e8b-4d79-b86c-6cd715030d7a,9030c2c3-f7fb-4dce-af4c-632620746fa8,🎃 Pun-kin 🎃,True
+e04c2bfc-bfe1-48a8-a39b-4fe0d9946148,f673232f-9f8e-4908-910b-daad4e70cb03,🐱 Furry 🐱,True
+7b8084b2-180a-4847-a804-baa64cb501ee,ab8f9f39-92fb-4133-acee-0221df84a7d0,💥 Rioting 💥,True
+93c86657-2125-430a-a03c-8667e7763cf9,70970f1a-fbf5-491b-92ae-87b9ebc3e580,💡 Inspired 💡,True
+5365c0a7-b11f-4369-a470-a38f840deed9,70970f1a-fbf5-491b-92ae-87b9ebc3e580,🖌️ Original 🖌️,True
+484bed33-1685-4d1e-9698-0788562e7622,a8522bbf-252d-4186-bf03-20720f1c492d,💢 Ruff 💢,True
+5743a206-d9a9-4324-aa33-b7e63cff0cad,2f7d9ab1-c412-4734-9545-84b3cad01e59,🇵🇰 Azad 🇵🇰,False
+57a3d1b5-4e9c-4a33-a0a3-2256c53fd701,2f7d9ab1-c412-4734-9545-84b3cad01e59,Impatient,True
+0caf8a84-9e3c-4289-934d-9e818b43e54e,e68681dd-9649-4796-959d-b2094ab66268,💪 Competitive 💪,True
+42935e4e-2c07-4bda-8377-d74d4cf817d7,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Guilty,True
+041b5395-75ac-4afb-984e-93ebb81d0396,8c94bc74-21c8-4ae9-b689-6b67e1c41194,🐸 Jumpy 🐸,True
+66775393-726e-4e49-b58e-0f30924de4bf,a8522bbf-252d-4186-bf03-20720f1c492d,🐶 Pawsome 🐶,True
+cb455596-37ca-40ad-b954-30d3b244a19b,a8522bbf-252d-4186-bf03-20720f1c492d,🐾 Diggin' it 🐾,True
+d8f15078-2d31-4605-979e-ce4b936164f3,a8522bbf-252d-4186-bf03-20720f1c492d,👑 Loyal 👑,True
+7ef3b8b2-ac99-48c2-9499-03bd88b7de34,3c7bf64f-56fb-4d5f-95e3-c1764959805d,💭 Dreaming 💭,True
+ca6dfcfc-bdf8-4f14-9295-40ab1409a8b3,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,🆘 Unlucky 🆘,True
+8b9a1d9d-29ac-4eb3-ac4b-a400ca81ef86,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🕸️ Clingy 🕸️,True
+1f8cadc6-e00f-4c20-9e42-7d43c7993897,ab8f9f39-92fb-4133-acee-0221df84a7d0,💋 Dangerous 💋,True
+cd85a29d-9957-4afd-a211-cd66b743158d,a8522bbf-252d-4186-bf03-20720f1c492d,😤 Grr-umpy 😤,True
+d84f9579-ba96-4818-93a5-7ff12f504098,a8522bbf-252d-4186-bf03-20720f1c492d,🐕 Good 🐕,True
+68e35e6e-6cb5-48b7-9bbc-e6c065562ff2,bbb7cce5-45eb-423c-bb85-e82b4a11fa3c,🌺 Recovering 🌺,True
+be83a9db-4dd5-4fef-bdc7-0dabec0a5637,a80f91d1-8509-4083-88fb-f45e16989ad3,🐉 Traditional 🐉,True
+44f54190-2ac0-4878-99ff-39f4644a6d55,9d5657eb-7719-42af-9055-c845fa35ba02,🎭 Masquerading 🎭,True
+dc93830e-9a5c-46c4-a6de-9b5f0e270fc5,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Upset,True
+2ba760a8-7868-4aec-b342-c2854d471f52,a8522bbf-252d-4186-bf03-20720f1c492d,🐩 Fancy 🐩,True
+4c1089bc-9ed5-48a3-aacb-941f44c2de96,a8522bbf-252d-4186-bf03-20720f1c492d,⚾ Fetching ⚾,True
+1ee6e2db-c0ce-4200-9e53-2ff98d05cdf2,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Thankful,True
+2811abb6-25e6-44a4-ae99-988a49ecb001,a8522bbf-252d-4186-bf03-20720f1c492d,🐺 Fur-ocious 🐺,True
+a1417dbd-4b25-4d20-9431-ed5bf65a475c,2ad5268f-0b7b-4c02-9323-870cce9c5e63,🍂 Falling 🍂,True
+b713939e-3634-4b21-a156-278c22078900,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,🌊 Em-ocean-al 🌊,True
+6ec8ac29-26bb-4147-9bce-635230392c01,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,🐝 Buzzing 🐝,True
+a884326d-2a5e-45c8-b8e4-35025b087bac,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,🍵 Brew-tiful 🍵,True
+6fbbce40-31fd-4d6e-88de-7db64e85a923,61e1b87e-8e99-4a48-a344-5029360e0f54,👽 Wicked 👽,True
+f1289990-e03c-4fff-b7af-20dfb7051dc5,61e1b87e-8e99-4a48-a344-5029360e0f54,🤡 Tricky 🤡,True
+3dab09fd-8b96-4871-a90d-d95aec31fa68,a8522bbf-252d-4186-bf03-20720f1c492d,🔊 Yappy 🔊,True
+76ec9a30-02ff-4be8-9176-e915d91d96bb,2ad5268f-0b7b-4c02-9323-870cce9c5e63,🌽 Corny 🌽,True
+00b1afec-8e33-43af-acc1-1ea82aac425c,8864978d-121a-4ec1-9af4-0c8f5fb3583b,🥅 Scoring 🥅,True
+d43fa22d-990e-4b72-bb0d-74df1adb7f96,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,🏳️ Defeated 🏳️,True
+7061eae6-92d4-40b4-b66b-528a19309761,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,🍻 Jolly 🍻,True
+a334c00a-43e0-468c-84f5-1629db8a34b2,40a3f439-6198-4a5b-98bc-17c6398d71ce,🌿 Coping 🌿,True
+2646629f-aac2-4880-93e2-a43bf2828a8e,9d5657eb-7719-42af-9055-c845fa35ba02,🦇 Counting 🦇,True
+037f4532-c479-48fb-b575-94bb4160f47a,0af046e4-bf8d-4776-8d05-2e5128568330,🇲🇽 Viva 🇲🇽,False
+c42858bf-91d5-4645-b5bc-75269ec1a359,0af046e4-bf8d-4776-8d05-2e5128568330,🇵🇱 Independent 🇵🇱,False
+15c8fe27-0a29-4982-9cac-b3fa2d03d31b,2ad5268f-0b7b-4c02-9323-870cce9c5e63,🦊 Foxy 🦊,True
+58232441-f452-4777-9295-08606811e4e8,2ad5268f-0b7b-4c02-9323-870cce9c5e63,🌻 Growing 🌻,True
+32793a4a-5fba-4df6-8648-a993462ee547,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,🤢 Queasy 🤢,True
+11916c6e-8f78-41a3-bf86-5992df38b3d9,2ad5268f-0b7b-4c02-9323-870cce9c5e63,🦌 Fawning 🦌,True
+c0c17c6b-a718-4898-8449-4c9ce496bbbc,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,🌴 Stranded 🌴,True
+2f5b3118-5fc9-4f24-a328-0b774c672ab3,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,🕯️ Bright 🕯️,True
+199070e0-a892-46f1-8ae3-da116d683959,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,☕ Caffeinated ☕,True
+99954d15-cdc7-4b6e-abcb-d7d6779d568b,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,🌱 Awake 🌱,True
+2d893f08-afe7-417a-af23-330ca6734bcb,00c4da33-145f-4a63-b414-72725cb71e5a,🍒 Cherished 🍒,True
+d726223e-f36d-43fd-8dde-b1f0e5e629e3,c66c1a78-2007-43ce-8b8e-792aabb7b490,🐻 Gummy 🐻,True
+02404c2f-b2e1-4155-84ae-60922bf8c534,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,⛱️ Grounded ⛱️,True
+a5934321-c907-458f-9653-48a73f117267,79bcdf8a-14fa-4b54-a21c-022f69395c37,☔ Rainy ☔,True
+90e2430f-e069-4806-a1aa-22f9dfc3955f,917a419a-1562-40c7-b8e4-dfe51d7090ba,☕ Not Interested ☕,True
+3c6a13fe-d057-4ee8-8539-b44053b5e05a,f0328ae4-1093-4b84-8a98-8a0826f832e3,💔 Mistaken 💔,True
+15252d75-7f18-4229-89f0-1ea74e2e8b71,fe0e3bd1-c324-4865-936f-09c7e489cc10,FRIENDLY,False
+9720fe6f-4d7e-4563-ae65-30e389b81e6a,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,🧚 Sparkling 🧚,True
+1affd585-6230-416a-a093-418190e1d994,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Nostalgic,True
+fb75a87e-a4b7-4900-9f79-6cf458382d1c,e7cc6b71-bc19-4806-b476-733a94616a0d,🏳️‍🌈 Visible 🏳️‍🌈,True
+c8315997-69ba-4cbf-a02b-da9c44f0c3fb,a16fef0e-7af8-486d-999c-9b59632d9c5f,🌻 Warm 🌻,True
+8c710de1-b90c-46e6-a1d7-7bff4880b123,d3bc526b-b869-4e04-b959-d9a6783dc487,✨ Devout ✨,True
+2643cf7e-3be8-4afa-8507-5c025177a4d8,9d5657eb-7719-42af-9055-c845fa35ba02,🗡️ Slaying 🗡️,True
+4e9b7029-d7c6-4429-aadc-7cb8fd51199b,edd4134b-7f86-43d5-94e6-062bc2ca1c8b,🎧 Coping 🎧,True
+13bc3503-b3a1-4281-bcb0-b0780bc3a655,d3bc526b-b869-4e04-b959-d9a6783dc487,🎺 Joyous 🎺,True
+eb5a158d-fe12-473e-9d12-fde94202bfff,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,🚧 Cautious 🚧,True
+742e7c07-9b6d-4309-9380-0576e30f82f6,9030c2c3-f7fb-4dce-af4c-632620746fa8,🐱 Purranormal 🐱,True
+4b06db9f-8041-4f0c-ae9f-dd03107320f2,9030c2c3-f7fb-4dce-af4c-632620746fa8,🦇 Batty 🦇,True
+dd5fa7c7-08f5-4e2f-b082-d9c9d3b619ca,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,🌰 Roasted 🌰,True
+a391408a-fcc8-453b-b31a-6f01b9f6f318,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,🦀 Crabby 🦀,True
+2db0198f-b7f3-4434-a580-68cd159feafe,79bcdf8a-14fa-4b54-a21c-022f69395c37,🌻 Springy 🌻,True
+ab9e7a82-58e5-47aa-80ce-d989a2c2d858,a80f91d1-8509-4083-88fb-f45e16989ad3,🍱 Plentiful 🍱,True
+b9215600-030f-4890-86d4-8ce5f7814604,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,👁‍🗨 Cursed 👁‍🗨,True
+d93e1cdd-ec50-4932-891d-32490cc93e7a,ab8f9f39-92fb-4133-acee-0221df84a7d0,💀 Rebelling 💀,True
+0905e17a-e276-4d3a-ac02-3e9e129cade2,c66c1a78-2007-43ce-8b8e-792aabb7b490,🍋 Sour 🍋,True
+f958d078-272d-4437-9bfe-bc34a2f0de7d,e68681dd-9649-4796-959d-b2094ab66268,😱 Devastated 😱,True
+28a33e73-3afe-4d91-bcf2-5abc6b545a73,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,🤑 RICH 🤑,False
+648e5642-a08b-4409-b075-f619efc7feed,fe0e3bd1-c324-4865-936f-09c7e489cc10,INTRIGUED,False
+4f403440-df8c-45b1-93b7-85ab0e2eeb4a,fe0e3bd1-c324-4865-936f-09c7e489cc10,👋 Waving 👋,True
+4ead5338-2370-4bd7-a352-926cd1a23c3c,c66c1a78-2007-43ce-8b8e-792aabb7b490,🍭 Sucky 🍭,True
+167fa4e7-8b71-4e84-ac4f-47766ef75aaf,917a419a-1562-40c7-b8e4-dfe51d7090ba,🍕 Single 🍕,True
+48bd2980-57af-476e-9fc2-d92c2114d5a9,917a419a-1562-40c7-b8e4-dfe51d7090ba,♠ Platonic ♠,True
+1d77a782-381a-46df-b9c8-78e27803af79,917a419a-1562-40c7-b8e4-dfe51d7090ba,🏩 Lovesick 🏩,True
+7e31afe7-ad30-4f4c-ab61-759f94ecc92d,9030c2c3-f7fb-4dce-af4c-632620746fa8,🦉 Wide-eyed 🦉,True
+81d29221-a8c8-463f-8c72-f83a3837bdf2,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,🏳️‍🌈 Proud 🏳️‍🌈,True
+a512ac61-8f59-4eb4-90fe-d0aacbf4da7e,22740139-e807-4bd0-a6aa-0bfc4dcc7dd7,💞 Equal 💞,True
+e7d73d7f-bcd6-4ce0-a0d7-c1431f065060,bab8ae81-40be-48d0-aa8b-be96063b6561,😈 Naughty 😈,True
+649df8ae-30f8-4fcf-824f-ecdf8ad11779,c66c1a78-2007-43ce-8b8e-792aabb7b490,🍓 Jammin' 🍓,True
+7c5a3729-f5eb-4d1e-bc76-fd22b276d003,bab8ae81-40be-48d0-aa8b-be96063b6561,🎄 Merry 🎄,True
+4fc094e5-207f-433d-a5a7-4c526768bb8b,a80f91d1-8509-4083-88fb-f45e16989ad3,🦁 Roaring 🦁,True
+4e24d880-9655-4416-a02a-8aeda4244f82,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,😏 Lucky 😏,True
+605cb89c-7467-4cba-9bae-567d201c0d27,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,😱 Spooked 😱,True
+28e912a2-1043-4db5-8f8f-ff353a5fba2d,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,🤔 Skeptical 🤔,True
+9ea24c02-2fe9-4d68-87d9-a06eab6ce42d,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,🎩 Mad 🎩,True
+fe6c1ca2-03b3-4835-a092-cad546cf21c6,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,🔮 Superstitious 🔮,True
+48a02e0e-3474-4856-b876-a480605438b6,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,🍎 Rotten 🍎,True
+75067bc8-127c-466e-8085-50cc516afa67,1ad911c6-c06c-4baa-ad4c-135fcae1e66e,🏰 Lost 🏰,True
+c854719c-21d0-4a46-92c8-2836547846d6,a145a804-b4bb-44cf-b569-2732b8670507,☘️ Shamrockin ☘️,True
+aef78f6c-24ac-474a-a378-95ffc0e39115,a145a804-b4bb-44cf-b569-2732b8670507,🇮🇪 Proud 🇮🇪,True
+2a87c883-1421-45d8-8aaf-8748e12d8bd2,a145a804-b4bb-44cf-b569-2732b8670507,💃 Jiggy 💃,True
+0853ab2a-49a4-4ef3-a426-35acb7917678,edd4134b-7f86-43d5-94e6-062bc2ca1c8b,🧷 Alternative 🧷,True
+af155123-e3bf-4006-a357-9efc85e44a90,c66c1a78-2007-43ce-8b8e-792aabb7b490,⚡ Sugar-rushed ⚡,True
+caf614ce-c2f6-47d9-9deb-7097feff7a74,c66c1a78-2007-43ce-8b8e-792aabb7b490,🍫 Snickering 🍫,True
+0b32cf33-d31d-47e2-91ce-16ad20fa1a8c,bab8ae81-40be-48d0-aa8b-be96063b6561,🍞 Toasty 🍞,True
+249f3d56-a775-41ba-b4db-a5d2afb32cf5,bab8ae81-40be-48d0-aa8b-be96063b6561,🎁 Impatient 🎁,True
+2304fd69-7b40-418e-a045-db69a9abdf4b,bab8ae81-40be-48d0-aa8b-be96063b6561,☠ Grinchy ☠,True
+cca597d6-a2f0-44ff-9198-a628564eb681,bab8ae81-40be-48d0-aa8b-be96063b6561,💫 Tranquil 💫,True
+013263da-5d2e-4c87-93bb-e4df2da97874,bab8ae81-40be-48d0-aa8b-be96063b6561,👼 Nice 👼,True
+9a80d09c-4c73-40d3-ae81-19573999e9b1,bab8ae81-40be-48d0-aa8b-be96063b6561,❄ Chilly ❄,True
+ac3ed329-8be7-4a65-8d27-eef5aa1ee0b2,36cbb964-d135-406d-ad17-bb0705aadbd4,💫 Enchanted 💫,True
+a90133aa-2ce0-497d-8a42-d0c14243cf66,a80f91d1-8509-4083-88fb-f45e16989ad3,🌕 Renewed 🌕,True
+8a5482ff-a892-4933-8afa-c9a2bac8c4e3,00c4da33-145f-4a63-b414-72725cb71e5a,💓 Flustered 💓,True
+cdacae51-406b-4a6e-9761-940993f9886b,00c4da33-145f-4a63-b414-72725cb71e5a,💋 Kissable 💋,True
+54b2d908-f535-4c29-bf49-2f71eb0654cb,00c4da33-145f-4a63-b414-72725cb71e5a,📷 Sentimental 📷,True
+08ea9d28-4b4a-4bba-a5a8-b1b9a042f421,36cbb964-d135-406d-ad17-bb0705aadbd4,🦌 Dashing 🦌,True
+e3602eb9-fb3b-4b2e-857c-b8c8b2d3dfc8,36cbb964-d135-406d-ad17-bb0705aadbd4,🐧 Huddling 🐧,True
+9b778eab-b000-4be0-b962-c92f1f58e15b,e7ef5c5b-95d4-4b58-ab23-03376f9ae4e3,❄️ CHILLED ❄️,False
+4f83a895-f84a-472f-9f41-521e266f4dba,36cbb964-d135-406d-ad17-bb0705aadbd4,🌧️ Slushy 🌧️,True
+720d79d6-117e-4bd2-b769-8d80f2cc2871,36cbb964-d135-406d-ad17-bb0705aadbd4,🌲 Pining 🌲,True
+d8981afc-d2c1-4032-9afd-15f79219a33b,00c4da33-145f-4a63-b414-72725cb71e5a,🐻 Fine 🐻,True
+248fc210-6486-4c4f-be9a-aa4634ed2bf5,d266ce2c-8369-4f29-bdbe-ea229f3e625f,🌌 Celestial 🌌,True
+b894f0f9-9c3b-4e47-8796-b71cc27d1258,d266ce2c-8369-4f29-bdbe-ea229f3e625f,✨ Starry-Eyed ✨,True
+70d4ff8d-a2d2-48b6-9369-524e63b48107,d266ce2c-8369-4f29-bdbe-ea229f3e625f,🌑 Eclipsing 🌑,True
+fea58fb5-1412-4533-b9b4-d3342cbf014d,d266ce2c-8369-4f29-bdbe-ea229f3e625f,🕶 Blinded 🕶,True
+d8b650c9-8ba0-4bb1-a9ec-ede6ad6fa5da,d266ce2c-8369-4f29-bdbe-ea229f3e625f,🌒 Shady 🌒,True
+dcbe8569-d874-47e4-92d6-ae78324d2294,fe0e3bd1-c324-4865-936f-09c7e489cc10,✨ Welcomed ✨,True
+10a7a082-bc11-4d12-8adc-eaf3536626d0,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,🐉 Fierce 🐉,True
+86f93751-1dfb-474f-8fad-a532ab5803e8,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,⌛ Eternal ⌛,False
+3d5de3e5-9996-4c80-909a-bb1e14eb120d,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,NF=No Fear,False
+cc0bfab0-f9fa-4132-bfc9-3befca7cb4d4,00e7f090-a2ab-4cf4-ad9f-6b45ebb3cb2b,🌵 Aware 🌵,True
+08ef7467-df5b-4717-b28c-227bf7d29ea9,e7cc6b71-bc19-4806-b476-733a94616a0d,✨ Significant ✨,True
+2a45150d-eb72-4a97-bcfe-2c9a47583056,bd10ee92-a4b8-41f4-b0e6-755b144806ad,🍪 Tough 🍪,True
+0893f043-1382-4d65-9378-2fb89ada1091,fe0e3bd1-c324-4865-936f-09c7e489cc10,💫 Excited 💫,True
+06ee98ef-1505-4268-b34d-11f4d14b0b3e,fe0e3bd1-c324-4865-936f-09c7e489cc10,🍃 Shy 🍃,True
+aa72cf9f-dab2-4cdf-9f70-e89fa1e43542,bd10ee92-a4b8-41f4-b0e6-755b144806ad,🌍 Inclusive 🌍,True
+21b4966d-f72c-4844-8e67-b27ea1c099cb,bd10ee92-a4b8-41f4-b0e6-755b144806ad,🍑 Unashamed 🍑,True
+08cbf123-bb76-48ef-9776-405d9f780458,fe0e3bd1-c324-4865-936f-09c7e489cc10,LEARNING,False
+b97077ef-5b51-42b5-b6f7-5a9bea66d917,70970f1a-fbf5-491b-92ae-87b9ebc3e580,📝 Poetic 📝,True
+e06279d9-f595-4962-b391-13d8bdb354c1,e7cc6b71-bc19-4806-b476-733a94616a0d,💍 Victorious 💍,True
+99e4b5f1-d1d9-4d3d-89db-12caf0fc795f,bd10ee92-a4b8-41f4-b0e6-755b144806ad,🌺 Flourishing 🌺,True
+7e434049-d262-4ad5-bdf7-483bf3a84c36,ab8f9f39-92fb-4133-acee-0221df84a7d0,🥀 Romantic 🥀,True
+9736f480-16c8-48ad-9a76-8d2a5d8d603b,ab8f9f39-92fb-4133-acee-0221df84a7d0,🤘 Rockin' 🤘,True
+bee4218a-6bc9-4425-830f-f93cbcdeb73d,ab8f9f39-92fb-4133-acee-0221df84a7d0,📻 Revolutionary 📻,True
+b2494a07-e57b-4428-919f-5c57e3e7c21e,e7cc6b71-bc19-4806-b476-733a94616a0d,⚔️ Brave ⚔️,True
+141348fd-20e9-4b50-b2f7-db849d1f3973,b5f33710-20fb-4cda-b4f2-dccc266e86cc,👩‍🔬 Fascinating 👨‍🔬,True
+ac9bb774-eaa3-4949-9125-a64e690d9513,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,🥀 Decaying 🥀,True
+f0e9fa1b-b504-4945-a867-8f8e198d43fc,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,💕 Empathetic 💕,True
+3ead5647-f0ac-4c08-aee8-e7d041ff10fa,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,🔇 Nonverbal 🔇,True
+2d5ba2ae-f395-4b40-a111-b846050e203e,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,✨ Interested ✨,True
+66098f9b-f020-451d-b334-02eaeca9bee5,8c94bc74-21c8-4ae9-b689-6b67e1c41194,☣️ Poisonous ☣️,True
+675be72a-7507-4eb7-9c0e-cae16f6dcd07,8c94bc74-21c8-4ae9-b689-6b67e1c41194,🌴 Homesick 🌴,True
+31730f3d-56e0-4d89-8942-666968285bae,8c94bc74-21c8-4ae9-b689-6b67e1c41194,🌈 Vibrant 🌈,True
+1e383c3f-46d7-4250-bf6a-866cf83ebf46,17e5dc81-f1a6-4840-b303-8aa769c0c8a6,🎈 Partying 🎈,True
+4c5a68ac-0295-4309-b293-388f2aca7b79,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,☁️ Soft ☁️,True
+5bc4ad18-4e5a-48bb-93e8-aba412db1422,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,🤲 Praying 🤲,True
+9a5046b4-4708-4bd9-b090-d1d39c9b9a6b,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,🌌 Cosmic 🌌,True
+92be54d6-7f83-47be-aede-486c6819cda2,ca1322db-ad8b-4dfb-b910-b7ece00393e2,💀 Dying 💀,True
+4a9544ae-d115-44b3-934c-ffb477f7e98d,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,☪️ Proud ☪️,True
+e365f1e7-42cd-43e0-bf06-6c48bcfb94bb,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,🏰 Imprisoned 🏰,True
+81df0945-b48f-4b8a-a7f2-842ec9e4283e,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,⚜️ Royal ⚜️,True
+081a52ff-ac1f-4b25-8dea-2ef83b254153,70970f1a-fbf5-491b-92ae-87b9ebc3e580,🖋️ Pensive 🖋️,True
+aaf39e6e-3c1a-4ee4-863e-e5b56a8584d9,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,🕍 Observant 🕍,True
+1838e35d-cde6-4f3b-977a-44e54fe9a4b8,2cec0d23-8cc4-40d3-b94b-4de035ee47b4,🐑 Sleepy 🐑,True
+88b8d4c4-c6b4-456e-9dca-a68b73b1359c,c4baead3-bcc6-421d-8c23-183c26bda853,Indifferent ,False
+cc944eed-7474-4402-9e5c-180a15668a5d,bd10ee92-a4b8-41f4-b0e6-755b144806ad,💋 Fatal 💋,True
+e127b495-beb1-4db6-8033-eb3318caa93e,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,🕌 Faithful 🕌,True
+26b7177e-4347-40fc-89ce-310434968096,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,🔴 Redinstead 🔴,True
+6640e409-ee24-4957-9d38-5b07fce16a35,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Interested,False
+9f92051c-b52a-4f51-8a07-8b4e002329ea,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9, 🗣️ Infodumping 🗣️,True
+fc12e0c5-3824-4893-91b8-fcb50506bcb8,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,⚡ Hyper ⚡,True
+8346e65c-6446-4785-a242-e2b42007420b,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,Polling,True
+bef3a760-098a-47bd-b768-5f2f56795282,7db21f2c-f0c8-48e1-8ed3-099124cb5c08,🇦🇷 Libre 🇦🇷,False
+3e0e903b-7565-474d-99d6-5e7cb08ef451,17e5dc81-f1a6-4840-b303-8aa769c0c8a6,🎂 Wishing 🎂,True
+e24a3251-582e-4ef5-b167-328d932bbe6f,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,🌙 Blessed 🌙,True
+a5087378-3f3d-41e5-9ab1-57b122618a2a,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🏔️ Everchanging 🏔️,True
+460a9913-b34e-4789-970c-4d6e63c5f069,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,🕋 Holy 🕋,True
+c52fe044-fd64-4b50-a692-f01f760eaba3,d67be808-590b-4cde-8244-ef39bff94876,🎀 Grateful 🎀,True
+846c2090-db10-4b5e-a748-7679c747de01,8864978d-121a-4ec1-9af4-0c8f5fb3583b,🎆 Celebrating 🎆,True
+4e19c5fc-db0f-4334-9c64-eb7a59a82b18,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,👋 Stimming 👋,True
+c57f36ec-dbc1-455f-ae97-7ef124431ea2,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,🎧 Overwhelmed 🎧,True
+16628569-229d-44c2-a7ab-40ce71598a8d,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,🎁 Charitable 🎁,True
+e940bd2f-45db-4222-b2c6-ddf7b4fd1b28,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,❤️ Kind ❤️,True
+26c43d6d-8a07-41de-bfdf-ef0cd440d3f3,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,🚿 Cleansed 🚿,True
+068edddb-0231-4fe3-9c29-d9dcbcb4f668,8864978d-121a-4ec1-9af4-0c8f5fb3583b,⚽ Ballin' ⚽,True
+d6a3dd2a-b73b-4bf1-b452-96590ff9f91f,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🧠 Adaptable 🧠,True
+7ff6b0d4-2cd1-4247-9b0c-b8735a346281,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,🥔 Crispy 🥔,True
+9955dc3d-61f0-4b24-a173-c2cb4cd04f61,8c94bc74-21c8-4ae9-b689-6b67e1c41194,🌬️ Cold Blooded 🌬️,True
+37121fd3-c673-4ec0-b64f-ebe0cb91fcfe,70970f1a-fbf5-491b-92ae-87b9ebc3e580,🖼️ Expressive 🖼️,True
+a80d14f4-f655-4bdc-808c-52cb78c0f386,70970f1a-fbf5-491b-92ae-87b9ebc3e580,🚫 Blocked 🚫,True
+3982ec3b-7980-4be7-905c-e90b40aae2af,70970f1a-fbf5-491b-92ae-87b9ebc3e580,🐾 Lost 🐾,True
+b08549f0-c75c-44fc-9294-ff357ef439d0,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,📖 Blessed 📖,True
+090d0f72-0fba-4013-bfcf-eaa37390754a,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,💝 Generous 💝,True
+28b54dd0-8f3c-4ad1-8ee3-1549db51453b,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,🕎 Gr-eight-ful 🕎,True
+87dbd1c3-f642-4c53-a840-6efd01a0e94c,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🌊 Rising 🌊,True
+9cf5ef41-5447-4506-ad4e-218f2f766d34,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,🌟 Glowing 🌟,True
+2f811072-37ea-4c74-a53c-a59ca29a36b7,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,🐸 Kissed 🐸,True
+ee7d20fa-ccbc-4969-a688-40cee9b8cef4,06dc519c-0c12-4d2c-95ca-f78d2a1985c0,😈 Impish 😈,True
+e9600ec1-b8af-4e15-9a49-7328377ced4b,917a419a-1562-40c7-b8e4-dfe51d7090ba,🏹 Lovestruck 🏹,True
+3efe693f-f9b6-4541-b5b8-572ae9a710fa,bd10ee92-a4b8-41f4-b0e6-755b144806ad,💐 Honorable 💐,True
+2cf19c72-6c13-4993-aeaa-39b7fab5d4c7,70970f1a-fbf5-491b-92ae-87b9ebc3e580,☕ Weary ☕,True
+238c2870-824d-4c01-9bce-a717e9562c62,70970f1a-fbf5-491b-92ae-87b9ebc3e580,💬 Typing 💬,True
+386c3195-5058-412e-bfdc-7497ce0e5f86,70970f1a-fbf5-491b-92ae-87b9ebc3e580,🎭 Tragic 🎭,True
+e12bf993-ccb4-41ce-91ce-19d43cc49a2f,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,🏃 Fasting 🏃,True
+ab36495f-82d7-4a2f-9d26-d47076ae4397,8c94bc74-21c8-4ae9-b689-6b67e1c41194,🍃 Hiding 🍃,True
+288023f3-dca1-4885-bd4c-e89549e66b8d,409f5e92-d44e-4e45-b1d8-c4dc6afbfaf9,🚂 On Track 🚂,True
+1b2bd71b-eca9-41bb-96e0-289c3b406173,ff6635bd-5bd9-4e4c-8333-f8ccfc78643f,✨ Peaceful ✨,True
+e3109066-92d2-4bbb-ad3c-dba9e2e53772,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🐛 Toxic 🐛,True
+5eca0947-fd78-4b4b-bb70-d20089e55e4a,e7cc6b71-bc19-4806-b476-733a94616a0d,🕯️ Remembering 🕯️,True
+e0babb52-73cd-4e31-b83c-357983cc7b46,79af7aa9-660e-49fc-9576-323b6a503179,Happy,True
+8dc896f8-dcf7-4d21-a047-1e1bd6e0f38d,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,⚠️ Terrified ⚠️,True
+e1099911-7afa-4335-8273-db1448c11cb2,f0328ae4-1093-4b84-8a98-8a0826f832e3,🎣 Baited 🎣,True
+35b8a1ad-b5cd-408f-9065-5a1edbb9fc66,e7cc6b71-bc19-4806-b476-733a94616a0d,💞 Faithful 💞,True
+bd211cd7-c1e5-4a30-a31b-eed454a03d42,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,👁️‍🗨️ Surviving 👁️‍🗨️,True
+d26b4305-0b9b-4379-829e-d059edf804aa,cc4fe356-e0b1-4cf3-94f2-87a0df3c70a1,💭 Sk-yiddish 💭,True
+0a554bec-5615-44dc-a62c-871e0668172a,8864978d-121a-4ec1-9af4-0c8f5fb3583b,🇫🇷 Victorious 🇫🇷,True
+7ec92955-20ac-44e8-87c6-94e37f96acfe,ca1322db-ad8b-4dfb-b910-b7ece00393e2,🌴 Shady 🌴,True
+f208aa96-3e34-4559-b9a9-d76e638af3c4,bd10ee92-a4b8-41f4-b0e6-755b144806ad,💖 Empowered 💖,True
+c96d31e4-6e7b-42f0-856c-b98c27415a69,bd10ee92-a4b8-41f4-b0e6-755b144806ad,🌹 Flawless 🌹,True
+a1934cdd-289a-4790-bf4e-1d0869210ee4,8864978d-121a-4ec1-9af4-0c8f5fb3583b,👊 Competitive 👊,True
+95321d7f-cff7-4120-9ee1-993a2f3cbe1a,bd10ee92-a4b8-41f4-b0e6-755b144806ad,🎀 Real 🎀,True
+769fafb2-d698-4820-8aff-fd7b4a36feb0,8c94bc74-21c8-4ae9-b689-6b67e1c41194,🌱 Friendly 🌱,True
+416819b7-3d5a-4976-a201-fdd5132e7c84,8c94bc74-21c8-4ae9-b689-6b67e1c41194,🍵 Petty 🍵,True
+a6af5461-3040-495f-a7c8-949ca3327236,e7cc6b71-bc19-4806-b476-733a94616a0d,💒 United 💒,True
+c33fcbad-c321-43d0-ab91-7f9c86f59a65,e7cc6b71-bc19-4806-b476-733a94616a0d,🌺 Sapphic 🌺,True
+e0d08512-a427-4fb5-99bb-bee26c4ec58b,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🐝 Jazzy 🐝,True
+47b1dd44-c9b5-4f75-a71c-06010487559b,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,💚 Necromantic 💚,True
+48a5407a-701b-40ef-a73c-34d7156c39c3,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,🧟 Thrilled 🧟,True
+fba59f2b-bd3b-49e9-8020-a9a3aaa74109,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,🌃 Ghoulish 🌃,True
+cc2ff5f4-ef2c-4a72-a352-163b6363bfbb,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,🥩 Gutsy 🥩,True
+06269ba6-d3c8-4e28-a421-8d020fe7ccf4,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,☠️ Clumsy ☠️,True
+312acaa7-4b4d-4ab9-805b-1915fda6bf2d,79af7aa9-660e-49fc-9576-323b6a503179,Proud,True
+eb8ef3a5-70e5-438d-8e47-61a6a99e4b6f,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,🧠 Brainy 🧠,True
+8a4dd355-b0de-414c-9fbf-a92beefae531,db0a791d-1fd2-4a9c-90a4-9f95fe1654e4,🏚️ Abandoned 🏚️,True
+cbc711b5-0df5-4d09-a82a-595fafb66421,e7cc6b71-bc19-4806-b476-733a94616a0d,💎 Biconic 💎,True
+e9d65dc4-eaff-4d2f-ac43-a3a4d387bad6,f0328ae4-1093-4b84-8a98-8a0826f832e3,⚠️ Frenzied ⚠️,True
+07d58248-d4b1-4122-b7a6-99d4c3404e0f,e7cc6b71-bc19-4806-b476-733a94616a0d,☁️ Passing ☁️,True
+f2c961f1-e284-4365-a075-31169e564c7c,e7cc6b71-bc19-4806-b476-733a94616a0d,🌈 Gay 🌈,True
+a100622a-eb99-402f-9f86-6e87468c4b6d,e7cc6b71-bc19-4806-b476-733a94616a0d,🌊 Fluid 🌊,True
+0bf7f1d1-9a41-4e73-ae93-f86561855fd5,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🌼 Sweet 🌼,True
+2fea82e6-25db-436a-bbf4-327414a74d11,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🐌 Slimy 🐌,True
+21c84689-52a1-4c9a-b269-2d0ce8ce3724,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🐞 Odd 🐞,True
+0110ae4e-37ff-4536-b63d-f294985cd322,8864978d-121a-4ec1-9af4-0c8f5fb3583b,🏆 Triumphant 🏆,True
+72d19265-fd30-4fd6-af8b-bf36b48eada7,8864978d-121a-4ec1-9af4-0c8f5fb3583b,🇷🇺 Rushing 🇷🇺,True
+20e21bec-9e0e-448b-b2e1-30c173fbfdcf,f0328ae4-1093-4b84-8a98-8a0826f832e3,💧 Fin-tastic 💧,True
+610bb5a3-6f61-4745-b012-fea754675d55,f0328ae4-1093-4b84-8a98-8a0826f832e3,🔨 Hardheaded 🔨,True
+c88cc72e-d203-4f3d-a829-ed5ac7ed4a2c,17e5dc81-f1a6-4840-b303-8aa769c0c8a6,🎊 Celebrating 🎊,True
+d3b3bcff-0dc8-4401-a346-32442d1d621b,17e5dc81-f1a6-4840-b303-8aa769c0c8a6,🕑 Aging 🕑,True
+4335e7ac-4e67-48c8-a21d-91b0bc870b47,48b7734c-1b95-4a1e-9e40-8d2dd73ff499,☠️ Piratey ☠️,True
+006eceaf-9db2-489f-a328-056c2027d42a,17e5dc81-f1a6-4840-b303-8aa769c0c8a6,🥚 Eggcited 🥚,True
+e7112d3c-5470-486f-bbd8-9cfece31e7b8,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🦋 Reborn 🦋,True
+a0e7dbbf-e4e9-42fc-b976-be0c74fbdeef,b5f33710-20fb-4cda-b4f2-dccc266e86cc,🦂 Lethal 🦂,True
+ef08961d-84a7-4d0b-853d-31822df98e3d,8864978d-121a-4ec1-9af4-0c8f5fb3583b,☁️ Euphoric ☁️,True
+b01b8e6c-3fd5-4ca2-aa8f-3fef176ac4d1,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Bored,True
+f491521b-b180-4197-927e-054b79f29690,f0328ae4-1093-4b84-8a98-8a0826f832e3,🏥 Healing 🏥,True
+aca6601b-9bab-4940-9012-0124fe28c155,17e5dc81-f1a6-4840-b303-8aa769c0c8a6,🎀 Wrapped 🎀,True
+5480ba34-3a5c-49b6-9438-ac7fd074d28f,f0328ae4-1093-4b84-8a98-8a0826f832e3,🦈 Disinterested 🦈,True
+90e721e1-152b-4588-9243-28b2314f8739,d67be808-590b-4cde-8244-ef39bff94876,✨ Wholesome ✨,True
+e4e14045-7dd2-4930-8e62-4673d1871229,f0328ae4-1093-4b84-8a98-8a0826f832e3,⚓ Gill-ty ⚓,True
+dc864085-fc61-4b62-b80e-54e0f0580ba8,c4baead3-bcc6-421d-8c23-183c26bda853,OK,False
+020465c9-c7ec-4bfe-b1a6-2d1216494dce,a16fef0e-7af8-486d-999c-9b59632d9c5f,🥪 Sharing 🥪,True
+8f95c0c2-6846-4932-a1fc-22f40a9189fd,a145a804-b4bb-44cf-b569-2732b8670507,💭 Mindful 💭,False
+54938d99-eb80-445a-b492-fadf92c09185,40a3f439-6198-4a5b-98bc-17c6398d71ce,🐕 Helpful 🐕,True
+ef376312-ed58-42b3-8080-8cb214799d63,40a3f439-6198-4a5b-98bc-17c6398d71ce,🍃 Recovering 🍃,True
+1d9e335f-89e5-4be0-b6a3-5477a9ded8c2,40a3f439-6198-4a5b-98bc-17c6398d71ce,🌃 Exhausted 🌃,True
+66b52a7c-bbf7-415c-919e-16198ffc72d7,79af7aa9-660e-49fc-9576-323b6a503179,🍕 Craving 🍕,False
+8a47035b-0b7e-4adb-8b5b-a843b76473e5,79af7aa9-660e-49fc-9576-323b6a503179,⚽️ Cheerful 🌎,False
+aca0a3ea-50fb-4c04-ab5b-e0f93ac7059b,79af7aa9-660e-49fc-9576-323b6a503179,Content,True
+2ebc1290-3806-448d-a4c8-c656ba6c9225,79af7aa9-660e-49fc-9576-323b6a503179,Chill,True
+c5e46b0c-3e0b-41ff-a18e-2206b694ba26,d67be808-590b-4cde-8244-ef39bff94876,🍵 Gossiping 🍵,True
+f94edc21-32e3-43f0-8d59-8e5488aaed3c,d67be808-590b-4cde-8244-ef39bff94876,🐶 Loyal 🐶,True
+c8cf6c27-6862-4409-9f10-97ae3b535c04,edd4134b-7f86-43d5-94e6-062bc2ca1c8b,💔 Emotional 💔,True
+4d4dc182-5dd9-4749-9d78-89ba6d095610,edd4134b-7f86-43d5-94e6-062bc2ca1c8b,🖤 Despairing 🖤,True
+b7e49bad-290c-4d5f-be49-84aa3364eaab,d67be808-590b-4cde-8244-ef39bff94876,🎮 Bromantic 🎮,True
+5be15978-8f50-4d0b-84fb-d8ed27cea457,d67be808-590b-4cde-8244-ef39bff94876,💞 Devoted 💞,True
+2199b6a0-215d-456a-8508-b0c03b3bdf0f,d67be808-590b-4cde-8244-ef39bff94876,🕊️ Angelic 🕊️,True
+22b2fb5a-c5ce-45c2-ac59-b047ea4bb6c7,3f36988a-9a5a-4b64-b18c-47216c66e862,💍 Bonded 💍,True
+29fa993b-c9cf-4757-b2dc-a29df5e38380,d67be808-590b-4cde-8244-ef39bff94876,👑 Valued 👑,True
+8446dd4d-646a-433f-a3ed-baa1d7b58bf6,d67be808-590b-4cde-8244-ef39bff94876,💓 Unconditional 💓,True
+f14d1484-13e8-4fc2-a6d2-e228d3de9723,d67be808-590b-4cde-8244-ef39bff94876,🧦 Paired 🧦,True
+ba60bd3c-53e0-4c67-9fd5-eecb41abf4ed,c105593f-9e96-47e6-9246-d7458f9a6a4b,🌙 Lunar 🌙,True
+17cc4393-ed35-462f-969a-b00af45703f6,c105593f-9e96-47e6-9246-d7458f9a6a4b,🐰 Late 🐰,True
+c9742fd6-415d-4cd5-83ce-b04d84f512d0,c105593f-9e96-47e6-9246-d7458f9a6a4b,🐇 Cute 🐇,True
+d8178412-aec1-4b5a-bb28-c73e0583f3dc,c4baead3-bcc6-421d-8c23-183c26bda853,Emotionless,False
+13d57043-630e-4dec-8087-91e5eee58293,62bb6d69-ae01-415f-bc3b-898b10950472,🌠 Guiding 🌠,True
+ce46c6a3-c0be-4b51-a23e-454cf7bd99ed,62bb6d69-ae01-415f-bc3b-898b10950472,💞 Kindhearted 💞,True
+0ebd7935-a182-425a-9c4e-64b800ed380d,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,🇩🇪 Einheitlich 🇩🇪,False
+640b71ed-32cd-426a-8977-c6f79e6a1f00,c105593f-9e96-47e6-9246-d7458f9a6a4b,🎩 Magical 🎩,True
+7134a3d8-eabd-4885-89be-2fa4dee2e9e5,79af7aa9-660e-49fc-9576-323b6a503179,🇮🇳 Mukt 🇮🇳,False
+6e9b833a-5449-40cb-9d53-01ba04b58a2b,edd4134b-7f86-43d5-94e6-062bc2ca1c8b,💉 Lovesick 💉,True
+0dbaa1cc-8ceb-4798-94ea-55587b5f1ef9,40a3f439-6198-4a5b-98bc-17c6398d71ce,☔ Struggling ☔,True
+27e90cd1-3c37-468b-be49-dbf9cad0598a,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🌿 Safe 🌿,False
+c761f2a3-7aed-4d6c-b7d9-df243af417df,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🇦🇺 TRUE BLUE 🇦🇺,False
+cf359df0-f416-4a75-b319-20d99e000498,3f36988a-9a5a-4b64-b18c-47216c66e862,🌗 Whole 🌗,True
+0ac57aa0-2e13-459a-81c2-683047b7c19b,7aa8138f-f06a-4bd0-a0f5-a28893515215,⚔️ Competitive ⚔️,True
+cd81f1bc-8317-49d7-9bc0-25ffa0c7edca,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🤓 Intelligent 🤓,False
+8776c024-e4ef-42f1-b5f5-f2b1ee3d615f,7aa8138f-f06a-4bd0-a0f5-a28893515215,👾 Glitching 👾,True
+86d5bdb2-b1f4-4b4d-9b68-9136d309bd6b,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,🇧🇷 Independente 🇧🇷,False
+7db47924-977f-485d-9ddd-ac8ddd1ba84f,0af046e4-bf8d-4776-8d05-2e5128568330,🇭🇷 Nezavisan 🇭🇷,False
+ffdf2a4f-2dd1-4661-8450-3c91aa91484b,7aa8138f-f06a-4bd0-a0f5-a28893515215,😈 Villainous 😈,True
+144e44e3-deec-45d7-8a90-dceb5ba47db8,a16fef0e-7af8-486d-999c-9b59632d9c5f,🛡️ Altruistic 🛡️,True
+182ffc07-510f-47e8-b7b4-591ee0c0c778,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Awake,True
+c0676120-dc75-4836-917d-b85e885a2bb4,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,✡️ Observant ✡️,False
+eb4e8a93-b316-4b1e-8b26-7a6478bdd4ec,a16fef0e-7af8-486d-999c-9b59632d9c5f,🌷 Kind 🌷,True
+3624de89-7b1d-4213-90ff-154b9b63be34,3f36988a-9a5a-4b64-b18c-47216c66e862,🍚 Lucky 🍚,True
+dc650411-fb18-44b1-8439-68d231b4c380,3f36988a-9a5a-4b64-b18c-47216c66e862,🍾 Poppin' 🍾,True
+ce8b3fba-2c33-4e69-bf4a-f9365930172a,3f36988a-9a5a-4b64-b18c-47216c66e862,🌈 Reunited 🌈,True
+29f0f3ac-8e18-4ee6-840a-01b11c62cf9d,3f36988a-9a5a-4b64-b18c-47216c66e862,🎂 Married 🎂,True
+cd3c2b91-9209-4a5d-a8d2-18fa3bc1c516,f40868cf-4839-46cc-9101-81914658375f,✨ Transcendent ✨,True
+ed27ee35-9f87-40d2-b4a4-1411bdcb7173,7aa8138f-f06a-4bd0-a0f5-a28893515215,🍄 Super 🍄,True
+5fc94e92-848a-4f14-9009-96a7d5e3adf2,7aa8138f-f06a-4bd0-a0f5-a28893515215,❤️ Merciful ❤️,True
+1d6aeba8-fd8e-4ec5-9b99-319dcde7d852,7aa8138f-f06a-4bd0-a0f5-a28893515215,👑 Legendary 👑,True
+a829725b-f346-4534-ace0-778ba356b584,7aa8138f-f06a-4bd0-a0f5-a28893515215,🗡️ Heroic 🗡️,True
+f8a93063-3757-4884-bd43-14398877055a,40a3f439-6198-4a5b-98bc-17c6398d71ce,🦋 Growing 🦋,True
+09025422-c9f4-46e1-b471-38c654f24c46,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🇲🇾 Merdeka 🇲🇾,False
+26d4a1c3-56ce-45a1-8dcf-9d6a328268c0,0af046e4-bf8d-4776-8d05-2e5128568330,REDINSTEAD,False
+cb249711-943d-4495-b895-62bdd31523b6,40a3f439-6198-4a5b-98bc-17c6398d71ce,💭 Mindful 💭,True
+1dbeadfa-2bfc-4d25-a863-65a9a8a848d8,a16fef0e-7af8-486d-999c-9b59632d9c5f,💕 Heartfelt 💕,True
+96ccdd2e-152e-4e0d-a6da-c49d1c68b10c,a16fef0e-7af8-486d-999c-9b59632d9c5f,🎨 Happy 🎨,True
+39222ba6-f76f-48a0-bab1-bea428996c19,f40868cf-4839-46cc-9101-81914658375f,🧱 Breaking 🧱,True
+681fff94-a4c6-40db-bda0-d60641a62d42,edd4134b-7f86-43d5-94e6-062bc2ca1c8b,👊🏼 Diverse 👊🏾,True
+757b992d-b5f3-47bd-8c7b-b38570ba4fec,d3bc526b-b869-4e04-b959-d9a6783dc487,⛪ Gathering ⛪,True
+bac860b6-c7e6-4741-9ba4-47a71fa18dd0,d3bc526b-b869-4e04-b959-d9a6783dc487,🌿 Guiding 🌿,True
+9c0a9f99-4f59-4010-a22e-0529f9c7271e,f40868cf-4839-46cc-9101-81914658375f,✊🏾 Colorful ✊🏼,True
+e5f7859e-bc3a-49e7-acd5-038ffbd14163,f40868cf-4839-46cc-9101-81914658375f,🤝 Not alone 🤝,True
+ba67a844-170a-4b2b-898c-a81625e4a8aa,d3bc526b-b869-4e04-b959-d9a6783dc487,🕯️ Hopeful 🕯️,True
+29b3fc45-d9cd-40a3-8456-062e806c4f57,d3bc526b-b869-4e04-b959-d9a6783dc487,💞 Forgiven 💞,True
+5ddfe3ec-ab87-4b89-8d09-f83ad93571ac,f40868cf-4839-46cc-9101-81914658375f,💫 Themself 💫,True
+2145f6f9-a07d-41b4-860c-d67f136451e0,9d5657eb-7719-42af-9055-c845fa35ba02,🔪 Killer 🔪,True
+4e125546-d1c8-4de8-be93-84ccd774eff6,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Sleepy,True
+f59fced6-6d10-4bb0-a0f2-5c0fec7ed687,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Uncomfortable,False
+1c90706b-876a-45e4-8261-a5ba40a3b699,9d5657eb-7719-42af-9055-c845fa35ba02,🥀 Gothic 🥀,True
+ebab8fb6-fc0c-4f4b-8751-84eb4140ded0,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🇫🇷 REVOLUTIONARY 🇫🇷,False
+4b4a4c5e-d9b8-4e56-8fac-e732b9f4d6de,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🐶 Pawsome 🐶,False
+d918c716-e065-4bb6-ac39-09f15f35fddd,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🇸🇾 PEACEFUL 🇸🇾,False
+9632cb01-b6ab-4190-9aef-239afacfc742,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Tired,True
+720f14d9-cab7-42e8-8892-12d9fd160184,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Sick,True
+107a8e9a-941c-4292-a3ec-eced489148cb,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Sarcastic,True
+9a56e98b-312a-4f74-ad6b-7460c90777bc,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🇺🇸 Patriotic 🇺🇸,False
+c641e410-c5f0-4371-aa95-7e610d2ff7bd,40a3f439-6198-4a5b-98bc-17c6398d71ce,🐲 Resilient 🐲,True
+94874e9d-481c-4f15-a3f5-eeead6bf570a,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,🍂 THANKFUL 🍂,False
+6c91cbb6-2ca7-46b4-81ed-64f51105ccb1,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,🍴 STUFFED 🍴,False
+357efb32-00bc-41b0-a0bb-c1204c9f97b7,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,🎉 HYPED 🎉,False
+b6f4ccd7-1359-4dbf-8572-1d4f508629bf,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Confident,True
+c96b253e-5bdb-4f21-9b5e-0265de06afa8,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,🌑 Eclipsing 🌑,False
+c4a80af8-4960-4419-bdbe-1d1191f6b2c4,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Hopeful,True
+34903e70-f2ec-40c6-8f75-780bd9968835,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Safe,True
+b148359c-9eb6-4177-b6f9-76bab6cdf2e3,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Inspired,False
+91a437fd-8c2e-4fe4-a6fe-bf972cbcaf9e,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Determined,True
+4fc35470-9e4a-487c-9080-dac6ac31002c,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,Motivated,True
+7b98865e-4fa5-4fec-b2b0-d82263686124,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,⛱ Relaxed ⛱,False
+0050a6e7-0404-48a5-829f-fc404bf343d9,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,∞ STIMTASTIC ∞,False
+18999657-3c07-4e2e-9dd8-01334f1296a5,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,💖 GENEROUS  💖,False
+9f02bb28-4a57-446b-9a7c-bbdb0f9acc17,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,😻 PURRFECT 😻,False
+f7ac30f4-ba83-49c0-8a27-a6cff904873c,4fdc3a9c-48bc-4d8d-b01e-0d6e3097307c,🇨🇴 Berraco 🇨🇴,False
+8651c0e4-2862-4410-8485-b2adf38cf2be,a16fef0e-7af8-486d-999c-9b59632d9c5f,💛 Golden 💛,True
+b14f9f04-76b6-4065-a919-ae8a2cb6641e,f40868cf-4839-46cc-9101-81914658375f,🕯️ Honoring 🕯️,True
+e2166c53-90b0-4d7c-a87f-b97b4793c30b,40a3f439-6198-4a5b-98bc-17c6398d71ce,⛰️ Trying ⛰️,True
+68d29dde-b16d-4d85-8e80-17230ebf0541,d3bc526b-b869-4e04-b959-d9a6783dc487,🌟 Shining 🌟,True
+ea23ee60-10e7-4aa1-b615-4b6a1d1f242d,9d5657eb-7719-42af-9055-c845fa35ba02,🕷️ Macabre 🕷️,True
+45f24aa2-a4b3-4ccc-9e89-b56512507dc7,9d5657eb-7719-42af-9055-c845fa35ba02,🧛 Transforming 🧛,True
+b247bc8c-c763-42a6-a9ec-ec4ad50c6e48,7aa8138f-f06a-4bd0-a0f5-a28893515215,🕹️ Retro 🕹️,True
+8110eeb2-88b4-45ea-9ad9-ee136aed6b57,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Indifferent,False
+3243d8a5-aab3-4fb2-9740-aadfbece7ef4,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Lazy,True
+8c15de41-44a8-4b69-9797-bcb211618bd6,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,Meh,True
+59dc2864-3fe8-459e-b127-53e8e8d46368,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🇺🇸 INDEPENDENT 🇺🇸,False
+1789a846-ebc4-457b-9955-0f4224b72650,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🇰🇷 Gwangbok 🇰🇷,False
+c651b38b-2094-4c08-a78f-eba1beed8a9e,9d5657eb-7719-42af-9055-c845fa35ba02,🕸️ Cryptic 🕸️,True
+fc1d5e64-da8e-46ed-b2d8-9a3dee653d64,7aa8138f-f06a-4bd0-a0f5-a28893515215,🎮 Gaming 🎮,True
+7aa98e86-79a9-4de6-b4c5-7f0082fba774,7aa8138f-f06a-4bd0-a0f5-a28893515215,🐾 Crossed 🐾,True
+8a931a34-24a4-41a1-9817-f0a0562a8a66,1cd9b8ed-23d1-4a1a-83cd-0de7159ef604,🇨🇷 Pura Vida 🇨🇷,False
+0f80c434-1970-4c5f-8a67-8a3c789444e6,9d5657eb-7719-42af-9055-c845fa35ba02,⏳ Immortalized ⏳,True
+bee22a49-af35-4c78-88b3-09fa611246c8,a16fef0e-7af8-486d-999c-9b59632d9c5f,🌸 Lovely 🌸,True
+8edafa5d-92d4-46aa-8835-b0bc86593d13,0af046e4-bf8d-4776-8d05-2e5128568330,🇱🇧 Independent 🇱🇧,False
